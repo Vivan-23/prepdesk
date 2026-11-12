@@ -1,0 +1,3905 @@
+[
+  {
+    "id": "indiabix-analogy-0001",
+    "category": "reasoning",
+    "topic": "analogy",
+    "source_topic": "Analogies",
+    "difficulty": null,
+    "question": "Choose the pair that best represents a similar relationship to FROND : PALM.",
+    "passage": null,
+    "options": [
+      "quill : porcupine",
+      "blade : evergreen",
+      "scale : wallaby",
+      "tusk : alligator",
+      "blade : fern"
+    ],
+    "answer": 0,
+    "explanation": "A palm tree has fronds; a porcupine has quills.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/online-test/logical-reasoning-test/1"
+  },
+  {
+    "id": "indiabix-statement-conclusion-0001",
+    "category": "reasoning",
+    "topic": "statement-conclusion",
+    "source_topic": "Statement and Conclusion",
+    "difficulty": null,
+    "question": "Statement: India's economy depends mainly on forests.\nConclusions:\n1. Trees should be preserved to improve India's economy.\n2. India wants only maintenance of forests to improve economic conditions. Which conclusion follows?",
+    "passage": null,
+    "options": [
+      "Only conclusion 1 follows",
+      "Only conclusion 2 follows",
+      "Either conclusion 1 or 2 follows",
+      "Neither conclusion follows",
+      "Both conclusions follow"
+    ],
+    "answer": 0,
+    "explanation": "The statement supports preserving forests, so conclusion 1 follows. It does not establish that forest maintenance is the only way to improve economic conditions, so conclusion 2 does not follow.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/online-test/logical-reasoning/random"
+  },
+  {
+    "id": "indiabix-critical-reasoning-0001",
+    "category": "reasoning",
+    "topic": "critical-reasoning",
+    "source_topic": "Logical Problems",
+    "difficulty": null,
+    "question": "Facts: Pictures can tell a story. All storybooks have pictures. Some storybooks have words. Which statement must also be a fact?\nI. Pictures can tell a story better than words can.\nII. The stories in storybooks are very simple.\nIII. Some storybooks have both words and pictures.",
+    "passage": null,
+    "options": [
+      "I only",
+      "II only",
+      "III only",
+      "None of the statements is a known fact"
+    ],
+    "answer": 2,
+    "explanation": "I and II are unsupported. Since all storybooks have pictures and some storybooks have words, some storybooks have both words and pictures.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/online-test/logical-reasoning-test/1"
+  },
+  {
+    "id": "freshersnow-wipro-reasoning-questions-and-answers-001",
+    "category": "reasoning",
+    "topic": "other",
+    "source_topic": "Wipro Reasoning",
+    "difficulty": null,
+    "question": "I. 15 11 20 400\nII. 8 12 10\nIf the resultant of the second set of numbers is divided by the resultant of the first set of\nnumbers, what will be the outcome?",
+    "passage": null,
+    "options": [
+      "196",
+      "200",
+      "19",
+      "92",
+      "None of the Above"
+    ],
+    "answer": 4,
+    "explanation": "15 -11 = 4 [Rule ii] 4 * 20 = 80 [Rule iv] 400 / 80 = 5 [Rule iii] r1 = 5\n8 * 12 = 96 [Rule iv] 96 * 10 = 960[Rule iv] r2 = 960\n960/5 =192",
+    "images": [],
+    "source": "freshersnow",
+    "url": "https://www.freshersnow.com/wp-content/uploads/2019/03/Wipro-Reasoning-Questions-and-Answers.pdf"
+  },
+  {
+    "id": "freshersnow-wipro-reasoning-questions-and-answers-002",
+    "category": "reasoning",
+    "topic": "other",
+    "source_topic": "Wipro Reasoning",
+    "difficulty": null,
+    "question": "I. 40 30 3600\nII. 15 24 17\nWhat is the sum of the two resultant numbers of the set of numbers given above?",
+    "passage": null,
+    "options": [
+      "22",
+      "25",
+      "28",
+      "42",
+      "None of the Above"
+    ],
+    "answer": 1,
+    "explanation": "40 * 30 = 1200 [Rule iv] 3600/1200 = 3 [Rule iii] 15 + 24 = 39 [Rule i] 39 – 17 = 22 [Rule ii]\n22 + 3 = 25",
+    "images": [],
+    "source": "freshersnow",
+    "url": "https://www.freshersnow.com/wp-content/uploads/2019/03/Wipro-Reasoning-Questions-and-Answers.pdf"
+  },
+  {
+    "id": "freshersnow-wipro-reasoning-questions-and-answers-003",
+    "category": "reasoning",
+    "topic": "other",
+    "source_topic": "Wipro Reasoning",
+    "difficulty": null,
+    "question": "I. 8 16 16 14\nII. 13 11 12 144\nWhat is the difference between the resultant of the first set of numbers and the second set of\nnumbers?",
+    "passage": null,
+    "options": [
+      "222",
+      "210",
+      "118",
+      "106",
+      "None of the Above"
+    ],
+    "answer": 3,
+    "explanation": "16 / 8 = 2 [Rule iii] 16 / 2 = 8 [Rule iii] 8 * 114 = 112 [Rule iv] 13 – 11 = 2 [Rule ii] 2 * 12 = 24\n[Rule iv] 144 / 24 = 6[Rule iii] 112 – 6 = 106",
+    "images": [],
+    "source": "freshersnow",
+    "url": "https://www.freshersnow.com/wp-content/uploads/2019/03/Wipro-Reasoning-Questions-and-Answers.pdf"
+  },
+  {
+    "id": "freshersnow-wipro-reasoning-questions-and-answers-004",
+    "category": "reasoning",
+    "topic": "other",
+    "source_topic": "Wipro Reasoning",
+    "difficulty": null,
+    "question": "I. 13 11 4\nII. 17 13 12\nIf the resultant of the first set of numbers is multiplied by the resultant of the second set of\nnumbers, what will be the outcome?",
+    "passage": null,
+    "options": [
+      "48",
+      "96",
+      "69",
+      "75",
+      "None of the Above"
+    ],
+    "answer": 1,
+    "explanation": "13 – 11 = 2 [Rule ii] 4 / 2 = 2 [Rule iii] 17 – 13 = 4 [Rule ii] 4 * 12 = 48 [Rule iv] 48 * 2 = 96",
+    "images": [],
+    "source": "freshersnow",
+    "url": "https://www.freshersnow.com/wp-content/uploads/2019/03/Wipro-Reasoning-Questions-and-Answers.pdf"
+  },
+  {
+    "id": "freshersnow-wipro-reasoning-questions-and-answers-005",
+    "category": "reasoning",
+    "topic": "other",
+    "source_topic": "Wipro Reasoning",
+    "difficulty": null,
+    "question": "I. 19 15 12\nII. 15 12 23 16\nIf the resultant of the second set of numbers is subtracted from the resultant of the first set of\nnumbers what will be the outcome?",
+    "passage": null,
+    "options": [
+      "44",
+      "92",
+      "29",
+      "43",
+      "None of the Above"
+    ],
+    "answer": 0,
+    "explanation": "19 – 15 = 4 [Rule ii] 4 * 12 = 48 [Rule iv] 15 + 12 = 27 [Rule i] 27 – 23 = 4 [Rule ii] 16 / 4 = 4\n[Rule iv] 48 – 4 = 44\n(Q. 6-10) In each of the following questions, two rows of numbers are given. The resultant\nnumber in each row is to be worked out separately\nbased on the following rules and the questions below the rows of numbers are to be\nanswered. The operations of numbers progress from the left to\nthe right.\nRules:\n(i) If an even number is followed by another even number they are to be added.\n(ii) If an even number is followed by a prime number they are to be multiplied\n(iii) If an odd number is followed by an even number, the even number is to be subtracted\nfrom the odd number\n(iv) If an odd number is followed by another odd number the first number is to be added to\nthe square of the second number\n(v) If an even number is followed by a composite odd number,the even number is to be\ndivided by the odd number.",
+    "images": [],
+    "source": "freshersnow",
+    "url": "https://www.freshersnow.com/wp-content/uploads/2019/03/Wipro-Reasoning-Questions-and-Answers.pdf"
+  },
+  {
+    "id": "freshersnow-wipro-reasoning-questions-and-answers-006",
+    "category": "reasoning",
+    "topic": "other",
+    "source_topic": "Wipro Reasoning",
+    "difficulty": null,
+    "question": "I. 84 21 13\nII. 15 11 44\nWhat is the half of the sum of the resultants of the two rows?",
+    "passage": null,
+    "options": [
+      "116",
+      "132",
+      "232",
+      "236",
+      "None of the Above"
+    ],
+    "answer": 0,
+    "explanation": "84 / 21 = 4 [Rule v] 4 * 13 = 52 [Rule iii] R1 = 52\n15 + (11) ^ 2 = 136 [Rule iv] 136 + 44 = 180 [Rule i] R2 = 180\n(52 + 180) / 2 = 116",
+    "images": [],
+    "source": "freshersnow",
+    "url": "https://www.freshersnow.com/wp-content/uploads/2019/03/Wipro-Reasoning-Questions-and-Answers.pdf"
+  },
+  {
+    "id": "freshersnow-wipro-reasoning-questions-and-answers-007",
+    "category": "reasoning",
+    "topic": "other",
+    "source_topic": "Wipro Reasoning",
+    "difficulty": null,
+    "question": "I. 45 18 12\nII. 22 14 9\nWhat is the product of the resultants of the two rows?",
+    "passage": null,
+    "options": [
+      "75",
+      "48",
+      "45",
+      "64",
+      "None of the Above"
+    ],
+    "answer": 4,
+    "explanation": "45 – 18 = 27 [Rule iii] 27 – 12 = 15 [Rule iii] R1 = 15\n22 + 14 = 36 [Rule i] 36 / 9 = 4 [Rule v] R2 = 4\n= 15 * 4 = 60",
+    "images": [],
+    "source": "freshersnow",
+    "url": "https://www.freshersnow.com/wp-content/uploads/2019/03/Wipro-Reasoning-Questions-and-Answers.pdf"
+  },
+  {
+    "id": "freshersnow-wipro-reasoning-questions-and-answers-008",
+    "category": "reasoning",
+    "topic": "other",
+    "source_topic": "Wipro Reasoning",
+    "difficulty": null,
+    "question": "I. 12 7 16\nII. 79 28 15\nWhat is the difference between the resultants of the second row and the first row?",
+    "passage": null,
+    "options": [
+      "276",
+      "176",
+      "100",
+      "156",
+      "None of the Above"
+    ],
+    "answer": 1,
+    "explanation": "12 * 7 = 84 [Rule ii] 84 + 16 = 100 [Rule i] R1 = 100\n79 – 28 = 51 [Rule iii] 51 + (15)^2 = 276 [Rule iv] R2 = 276\n276 – 100 = 176",
+    "images": [],
+    "source": "freshersnow",
+    "url": "https://www.freshersnow.com/wp-content/uploads/2019/03/Wipro-Reasoning-Questions-and-Answers.pdf"
+  },
+  {
+    "id": "freshersnow-wipro-reasoning-questions-and-answers-009",
+    "category": "reasoning",
+    "topic": "other",
+    "source_topic": "Wipro Reasoning",
+    "difficulty": null,
+    "question": "I. 36 13 39\nII. 77 30 7\nWhat will be the outcome if the resultant of the second row is divided by the resultant of the\nfirst row?",
+    "passage": null,
+    "options": [
+      "12",
+      "16",
+      "8",
+      "6",
+      "None of the Above"
+    ],
+    "answer": 2,
+    "explanation": "36 * 13 = 468 [Rule ii] 468 / 39 = 12 [Rule v] R1 = 12\n77 – 30 = 47 [Rule iii] 47 + 49 = 96 [Rule iv] R2 = 96\nR2/R1 = 96/12 = 8",
+    "images": [],
+    "source": "freshersnow",
+    "url": "https://www.freshersnow.com/wp-content/uploads/2019/03/Wipro-Reasoning-Questions-and-Answers.pdf"
+  },
+  {
+    "id": "freshersnow-wipro-reasoning-questions-and-answers-010",
+    "category": "reasoning",
+    "topic": "other",
+    "source_topic": "Wipro Reasoning",
+    "difficulty": null,
+    "question": "I. 65 11 12\nII. 15 3 11\nWhat is the sum of the resultants of the two rows?",
+    "passage": null,
+    "options": [
+      "366",
+      "66",
+      "264",
+      "462",
+      "None of the Above"
+    ],
+    "answer": 3,
+    "explanation": "65 + 121 = 186 [Rule iv] 186 + 12 = 198 [Rule i] R1 = 198\n15 + 9 = 24 [Rule iv] 24 * 11 = 264 [Rule ii] R2 = 264\n198 + 264 = 462",
+    "images": [],
+    "source": "freshersnow",
+    "url": "https://www.freshersnow.com/wp-content/uploads/2019/03/Wipro-Reasoning-Questions-and-Answers.pdf"
+  },
+  {
+    "id": "freshersnow-wipro-reasoning-questions-and-answers-011",
+    "category": "reasoning",
+    "topic": "blood-relations",
+    "source_topic": "Wipro Reasoning",
+    "difficulty": null,
+    "question": "Introducing Veena , Kowri said “She is the only daughter of my father’s only\ndaughter”.How is Kowri related to Veena?",
+    "passage": null,
+    "options": [
+      "Niece",
+      "Sister",
+      "Aunt",
+      "Mother",
+      "None of these"
+    ],
+    "answer": 3,
+    "explanation": "Kowri is Veena’s mother.",
+    "images": [],
+    "source": "freshersnow",
+    "url": "https://www.freshersnow.com/wp-content/uploads/2019/03/Wipro-Reasoning-Questions-and-Answers.pdf"
+  },
+  {
+    "id": "freshersnow-wipro-reasoning-questions-and-answers-012",
+    "category": "reasoning",
+    "topic": "blood-relations",
+    "source_topic": "Wipro Reasoning",
+    "difficulty": null,
+    "question": "Pointing toward a boy ,Arjun said , “He is the son of only son of my grandfather”.How is\nthe boy related to to Arjun?",
+    "passage": null,
+    "options": [
+      "Brother",
+      "Uncle",
+      "Cousin",
+      "Father",
+      "None of these"
+    ],
+    "answer": 0,
+    "explanation": "Grandfather son – father son : brother.",
+    "images": [],
+    "source": "freshersnow",
+    "url": "https://www.freshersnow.com/wp-content/uploads/2019/03/Wipro-Reasoning-Questions-and-Answers.pdf"
+  },
+  {
+    "id": "freshersnow-wipro-reasoning-questions-and-answers-013",
+    "category": "reasoning",
+    "topic": "blood-relations",
+    "source_topic": "Wipro Reasoning",
+    "difficulty": null,
+    "question": "A man is said to lady , “Your mother’s husband’s sister is my aunt”. How is the lady\nrelated to to the man?",
+    "passage": null,
+    "options": [
+      "Mother",
+      "Sister",
+      "Daughter",
+      "Aunt",
+      "Grand daughter"
+    ],
+    "answer": 1,
+    "explanation": "Lady’s mother,s huband : Father\nLady’s father’s sister : Aunt.Hence lady is man’s sister.",
+    "images": [],
+    "source": "freshersnow",
+    "url": "https://www.freshersnow.com/wp-content/uploads/2019/03/Wipro-Reasoning-Questions-and-Answers.pdf"
+  },
+  {
+    "id": "freshersnow-wipro-reasoning-questions-and-answers-014",
+    "category": "reasoning",
+    "topic": "blood-relations",
+    "source_topic": "Wipro Reasoning",
+    "difficulty": null,
+    "question": "Pointing to Kamal,Sheeba said , “ His mother’s brother is the father of my son Akilesh”.\nHow is Kamal related to Sheeba?",
+    "passage": null,
+    "options": [
+      "Niece",
+      "Nephew",
+      "Aunt",
+      "Sister-in-law",
+      "None of these"
+    ],
+    "answer": 1,
+    "explanation": "Father of Sheeba’s son : Sheeba’s husband\nKamal: Sister son of Sheeba’s husband. Hence Kamal is Sheeba’s Nephew.",
+    "images": [],
+    "source": "freshersnow",
+    "url": "https://www.freshersnow.com/wp-content/uploads/2019/03/Wipro-Reasoning-Questions-and-Answers.pdf"
+  },
+  {
+    "id": "freshersnow-wipro-reasoning-questions-and-answers-015",
+    "category": "reasoning",
+    "topic": "blood-relations",
+    "source_topic": "Wipro Reasoning",
+    "difficulty": null,
+    "question": "Pointing to a photograph ,Nithish said, “She is the mother of my sons’s wife’s daughter”.\nHow is Nithish related to lady?",
+    "passage": null,
+    "options": [
+      "Son",
+      "Uncle",
+      "Father",
+      "Father – in – law",
+      "None of these"
+    ],
+    "answer": 3,
+    "explanation": "Nithish’s son’s wife’s daughter – Nithish’s son’s daughter\nMother of daughter of Nithish’s son – Wife of Nithish’s son\nHence Arun is the father-in-law of the lady.",
+    "images": [],
+    "source": "freshersnow",
+    "url": "https://www.freshersnow.com/wp-content/uploads/2019/03/Wipro-Reasoning-Questions-and-Answers.pdf"
+  },
+  {
+    "id": "freshersnow-wipro-reasoning-questions-and-answers-016",
+    "category": "reasoning",
+    "topic": "blood-relations",
+    "source_topic": "Wipro Reasoning",
+    "difficulty": null,
+    "question": "If Kiran says, “Rocky’s mother is the only daughter of my mother”, How is Kiran related to\nRocky?",
+    "passage": null,
+    "options": [
+      "Brother",
+      "Father",
+      "Uncle",
+      "Grand father",
+      "None of these"
+    ],
+    "answer": 2,
+    "explanation": "Daughter of Kiran’s mother – Kiran’s Sister.\nSo Kiran is an Uncle of Rocky.",
+    "images": [],
+    "source": "freshersnow",
+    "url": "https://www.freshersnow.com/wp-content/uploads/2019/03/Wipro-Reasoning-Questions-and-Answers.pdf"
+  },
+  {
+    "id": "freshersnow-wipro-reasoning-questions-and-answers-017",
+    "category": "reasoning",
+    "topic": "blood-relations",
+    "source_topic": "Wipro Reasoning",
+    "difficulty": null,
+    "question": "Pointing to a man, Dinesh said, “ His only brother is the father of my daughter’s father”.\nHow is the man related to Dinesh?",
+    "passage": null,
+    "options": [
+      "Father",
+      "Grand father",
+      "Uncle",
+      "Brother",
+      "None of these"
+    ],
+    "answer": 2,
+    "explanation": "Father of Dinesh daughter’s father : Dinesh’s father\nSo man is the brother of Dinesh’s father.",
+    "images": [],
+    "source": "freshersnow",
+    "url": "https://www.freshersnow.com/wp-content/uploads/2019/03/Wipro-Reasoning-Questions-and-Answers.pdf"
+  },
+  {
+    "id": "freshersnow-wipro-reasoning-questions-and-answers-018",
+    "category": "reasoning",
+    "topic": "blood-relations",
+    "source_topic": "Wipro Reasoning",
+    "difficulty": null,
+    "question": "Aswin said , “ This girl is the wife of the grandson of my mother”. Who is Aswin to that\ngirl?",
+    "passage": null,
+    "options": [
+      "Husband",
+      "Father",
+      "Brother",
+      "Uncle",
+      "Father-in-law"
+    ],
+    "answer": 4,
+    "explanation": "Grandson of my mother : son\nWife of Aswin’s son : Aswin’s Daughter-in-law.\n\nTherefore, Ashwin is a Father-in-law to that girl",
+    "images": [],
+    "source": "freshersnow",
+    "url": "https://www.freshersnow.com/wp-content/uploads/2019/03/Wipro-Reasoning-Questions-and-Answers.pdf"
+  },
+  {
+    "id": "freshersnow-wipro-reasoning-questions-and-answers-019",
+    "category": "reasoning",
+    "topic": "blood-relations",
+    "source_topic": "Wipro Reasoning",
+    "difficulty": null,
+    "question": "Pointing to an old man,Jeeva said, “ His son is my Son’s uncle”. How is the old man\nrelated to Jeeva ?",
+    "passage": null,
+    "options": [
+      "Father",
+      "Uncle",
+      "Brother",
+      "Grandfather",
+      "None of these"
+    ],
+    "answer": 0,
+    "explanation": "Jeeva’s son’s uncle : Jeeva’s Brother.\nHence old man is the Father of Jeeva.\n20.A woman introduce a man as the son of the brother of her mother.How is the man related\nto the woman?\nA. Son\nB. Nephew\nC. Uncle\nD. Cousin\nE. None of these\nAnswer - D. Cousin\nExplanation :\nBrother of mother : Uncle\nUncle’s son: Cousin.\nCLASSIFICATION",
+    "images": [],
+    "source": "freshersnow",
+    "url": "https://www.freshersnow.com/wp-content/uploads/2019/03/Wipro-Reasoning-Questions-and-Answers.pdf"
+  },
+  {
+    "id": "freshersnow-wipro-reasoning-questions-and-answers-021",
+    "category": "reasoning",
+    "topic": "classification-odd-one-out",
+    "source_topic": "Wipro Reasoning",
+    "difficulty": null,
+    "question": "Four of the following five are alike in a certain way and so form a group. Which is the one\nthat does not belong to that group ?",
+    "passage": null,
+    "options": [
+      "bcdr",
+      "ghst",
+      "nmlv",
+      "vxzw",
+      "akhi"
+    ],
+    "answer": 4,
+    "explanation": "This only contain vowels",
+    "images": [],
+    "source": "freshersnow",
+    "url": "https://www.freshersnow.com/wp-content/uploads/2019/03/Wipro-Reasoning-Questions-and-Answers.pdf"
+  },
+  {
+    "id": "freshersnow-wipro-reasoning-questions-and-answers-026",
+    "category": "reasoning",
+    "topic": "analogy",
+    "source_topic": "Wipro Reasoning",
+    "difficulty": null,
+    "question": "Energy : Joule :: Resistance : ?",
+    "passage": null,
+    "options": [
+      "Current",
+      "Ohm",
+      "Power",
+      "Ampere"
+    ],
+    "answer": 1,
+    "explanation": "Second is the unit of measuring first.",
+    "images": [],
+    "source": "freshersnow",
+    "url": "https://www.freshersnow.com/wp-content/uploads/2019/03/Wipro-Reasoning-Questions-and-Answers.pdf"
+  },
+  {
+    "id": "freshersnow-wipro-reasoning-questions-and-answers-027",
+    "category": "reasoning",
+    "topic": "analogy",
+    "source_topic": "Wipro Reasoning",
+    "difficulty": null,
+    "question": "Injury : Pain :: Thunder :: ?",
+    "passage": null,
+    "options": [
+      "Lightning",
+      "Sound",
+      "Fear",
+      "Rain"
+    ],
+    "answer": 0,
+    "explanation": "First causes the second",
+    "images": [],
+    "source": "freshersnow",
+    "url": "https://www.freshersnow.com/wp-content/uploads/2019/03/Wipro-Reasoning-Questions-and-Answers.pdf"
+  },
+  {
+    "id": "freshersnow-wipro-reasoning-questions-and-answers-028",
+    "category": "reasoning",
+    "topic": "analogy",
+    "source_topic": "Wipro Reasoning",
+    "difficulty": null,
+    "question": "Despotic : Tyranny :: Generous : ?",
+    "passage": null,
+    "options": [
+      "Partiality",
+      "Morality",
+      "Neutrality",
+      "Liberality"
+    ],
+    "answer": 3,
+    "explanation": "Second is the quality possessed by the first",
+    "images": [],
+    "source": "freshersnow",
+    "url": "https://www.freshersnow.com/wp-content/uploads/2019/03/Wipro-Reasoning-Questions-and-Answers.pdf"
+  },
+  {
+    "id": "freshersnow-wipro-reasoning-questions-and-answers-029",
+    "category": "reasoning",
+    "topic": "other",
+    "source_topic": "Wipro Reasoning",
+    "difficulty": null,
+    "question": "14 21 35 57 88 ?",
+    "passage": null,
+    "options": [
+      "182",
+      "129",
+      "166",
+      "127",
+      "180"
+    ],
+    "answer": 1,
+    "explanation": "21 – 14 = 7\n35 – 21 = 14\n57 – 35 = 22 14 – 7 = 7; 22 – 14 = 8",
+    "images": [],
+    "source": "freshersnow",
+    "url": "https://www.freshersnow.com/wp-content/uploads/2019/03/Wipro-Reasoning-Questions-and-Answers.pdf"
+  },
+  {
+    "id": "freshersnow-wipro-reasoning-questions-and-answers-030",
+    "category": "reasoning",
+    "topic": "other",
+    "source_topic": "Wipro Reasoning",
+    "difficulty": null,
+    "question": "13, 21, 37, 61, ?, 133",
+    "passage": null,
+    "options": [
+      "96",
+      "93",
+      "92",
+      "97",
+      "None of these"
+    ],
+    "answer": 1,
+    "explanation": "21 – 13 = 8\n37 – 21 = 16\n61 – 37 = 24....",
+    "images": [],
+    "source": "freshersnow",
+    "url": "https://www.freshersnow.com/wp-content/uploads/2019/03/Wipro-Reasoning-Questions-and-Answers.pdf"
+  },
+  {
+    "id": "freshersnow-wipro-reasoning-questions-and-answers-031",
+    "category": "reasoning",
+    "topic": "other",
+    "source_topic": "Wipro Reasoning",
+    "difficulty": null,
+    "question": "9, 10, 18, 57, ?, 1125",
+    "passage": null,
+    "options": [
+      "164",
+      "230",
+      "210",
+      "224",
+      "115"
+    ],
+    "answer": 3,
+    "explanation": "9 * 1 + 1 = 10\n10 * 2 – 2 = 18\n18 * 3 + 3 = 57\n57*4 - 4 = 224",
+    "images": [],
+    "source": "freshersnow",
+    "url": "https://www.freshersnow.com/wp-content/uploads/2019/03/Wipro-Reasoning-Questions-and-Answers.pdf"
+  },
+  {
+    "id": "freshersnow-wipro-reasoning-questions-and-answers-033",
+    "category": "reasoning",
+    "topic": "other",
+    "source_topic": "Wipro Reasoning",
+    "difficulty": null,
+    "question": "14, 8, 7, 11.5, 22, ?",
+    "passage": null,
+    "options": [
+      "56",
+      "59",
+      "53",
+      "58",
+      "52"
+    ],
+    "answer": 0,
+    "explanation": "14 * 0.5 + 1 = 8\n8 * 1 – 1 = 7\n7 * 1.5 + 1 = 11.5",
+    "images": [],
+    "source": "freshersnow",
+    "url": "https://www.freshersnow.com/wp-content/uploads/2019/03/Wipro-Reasoning-Questions-and-Answers.pdf"
+  },
+  {
+    "id": "freshersnow-wipro-reasoning-questions-and-answers-034",
+    "category": "reasoning",
+    "topic": "other",
+    "source_topic": "Wipro Reasoning",
+    "difficulty": null,
+    "question": "13, 14, 26, 108, ? , 13712",
+    "passage": null,
+    "options": [
+      "836",
+      "896",
+      "842",
+      "856",
+      "824"
+    ],
+    "answer": 3,
+    "explanation": "13 * 1 + 1 = 14\n14 * 2 – 2 = 26\n26 * 4 + 4 = 108\n108 * 8 – 8 = 856\n856 * 16 + 16= 13712",
+    "images": [],
+    "source": "freshersnow",
+    "url": "https://www.freshersnow.com/wp-content/uploads/2019/03/Wipro-Reasoning-Questions-and-Answers.pdf"
+  },
+  {
+    "id": "freshersnow-wipro-reasoning-questions-and-answers-035",
+    "category": "reasoning",
+    "topic": "other",
+    "source_topic": "Wipro Reasoning",
+    "difficulty": null,
+    "question": "12, 14, 19, 36, ?, 358",
+    "passage": null,
+    "options": [
+      "105",
+      "104",
+      "106",
+      "102",
+      "101"
+    ],
+    "answer": 4,
+    "explanation": "12 + 12 + 1= 14\n14 + 22 + 1= 19\n19 + 42 + 1= 36\n36 + 8*8 + 1 = 101.",
+    "images": [],
+    "source": "freshersnow",
+    "url": "https://www.freshersnow.com/wp-content/uploads/2019/03/Wipro-Reasoning-Questions-and-Answers.pdf"
+  },
+  {
+    "id": "freshersnow-wipro-reasoning-questions-and-answers-036",
+    "category": "reasoning",
+    "topic": "syllogism",
+    "source_topic": "Wipro Reasoning",
+    "difficulty": null,
+    "question": "Conclusions:\nI. Some Pens are not Pencils\nII. Some Erasers are Pencils\nStatements:",
+    "passage": null,
+    "options": [
+      "Some Scales are Pencils. No Pencil is Eraser. All Erasers are Pens",
+      "All Scales are Pencils. No Pencil is Eraser. Some Erasers are Pens",
+      "No Scale is Pencil. No Pencil is Eraser. All Erasers are Pens",
+      "All Scales are Pencils. All Pencils are Erasers. No Eraser is Pen.",
+      "None"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "images": [],
+    "source": "freshersnow",
+    "url": "https://www.freshersnow.com/wp-content/uploads/2019/03/Wipro-Reasoning-Questions-and-Answers.pdf"
+  },
+  {
+    "id": "freshersnow-wipro-reasoning-questions-and-answers-037",
+    "category": "reasoning",
+    "topic": "syllogism",
+    "source_topic": "Wipro Reasoning",
+    "difficulty": null,
+    "question": "Conclusions:\nI. Some Bats are Cats\nII. Some Mats are not Rats\nStatements:",
+    "passage": null,
+    "options": [
+      "All Mats are Cats. Some Rats are not Cats. Some Mats are Bats.",
+      "Some Cats are not Rats. All Cats are Mats. All Mats are Bats.",
+      "All Cats are Rats. No Rats are Mats. No Mats are Bats.",
+      "Some Cats are Rats. No Rats are Mats. Some Mats are Bats.",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "images": [],
+    "source": "freshersnow",
+    "url": "https://www.freshersnow.com/wp-content/uploads/2019/03/Wipro-Reasoning-Questions-and-Answers.pdf"
+  },
+  {
+    "id": "freshersnow-wipro-reasoning-questions-and-answers-038",
+    "category": "reasoning",
+    "topic": "syllogism",
+    "source_topic": "Wipro Reasoning",
+    "difficulty": null,
+    "question": "Conclusions:\nI. Some Universities are not Hospitals\nII. All Schools being Colleges is a possibility\nStatements:",
+    "passage": null,
+    "options": [
+      "Some Hospitals are Schools. All Schools are Universities. No University is College.",
+      "All Hospitals are Schools. All Schools are Universities. Some Universities are Colleges",
+      "All Hospitals are Schools. No School is University. Some Universities are Colleges",
+      "Some Hospitals are Schools. Some Schools are Universities. All Universities are Colleges",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "images": [],
+    "source": "freshersnow",
+    "url": "https://www.freshersnow.com/wp-content/uploads/2019/03/Wipro-Reasoning-Questions-and-Answers.pdf"
+  },
+  {
+    "id": "freshersnow-wipro-reasoning-questions-and-answers-039",
+    "category": "reasoning",
+    "topic": "syllogism",
+    "source_topic": "Wipro Reasoning",
+    "difficulty": null,
+    "question": "Conclusions:\nI. Some Oranges are not Kiwis\nII. Some Apples are not Bananas\nStatements:",
+    "passage": null,
+    "options": [
+      "Some Kiwis are Apples. No Apple is Orange. All Orange are Bananas",
+      "All Kiwis are Apples. Some Apples are Oranges. All Oranges are Bananas",
+      "No Kiwi is Apple. All Apples are Oranges. No Orange is Banana",
+      "No Kiwi is Apple. No Apple is Orange. All Oranges are Bananas",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "images": [],
+    "source": "freshersnow",
+    "url": "https://www.freshersnow.com/wp-content/uploads/2019/03/Wipro-Reasoning-Questions-and-Answers.pdf"
+  },
+  {
+    "id": "freshersnow-wipro-reasoning-questions-and-answers-040",
+    "category": "reasoning",
+    "topic": "syllogism",
+    "source_topic": "Wipro Reasoning",
+    "difficulty": null,
+    "question": "Conclusions:\nI. Some TV’s are Laptops\nII. Some Desktops are TV’s\nStatements:",
+    "passage": null,
+    "options": [
+      "All TV’s are Mobiles. Some Mobiles are Desktops. No Desktop is Laptop",
+      "Some TV’s are Mobiles. No Mobiles is Desktop. All Desktops are Laptops",
+      "Some TV’s are Mobiles. All Mobiles are Desktops. No Desktop is Laptop",
+      "All TV’s are Mobiles. No Mobile is Desktop. All Desktop are Laptops",
+      "None"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "images": [],
+    "source": "freshersnow",
+    "url": "https://www.freshersnow.com/wp-content/uploads/2019/03/Wipro-Reasoning-Questions-and-Answers.pdf"
+  },
+  {
+    "id": "indiabix-cause-effect-efc30ccbd8",
+    "category": "reasoning",
+    "topic": "cause-effect",
+    "source_topic": "Logical Reasoning - Cause and Effect",
+    "difficulty": null,
+    "question": "Statements: The prices of petrol and diesel in the domestic market have remained unchanged for the past few months. The crude oil prices in the international market have gone up substantially in the last few months.",
+    "passage": null,
+    "options": [
+      "Statement I is the cause and statement II is its effect",
+      "Statement II is the cause and statement I is its effect",
+      "Both the statements I and II are independent causes",
+      "Both the statements I and II are effects of independent causes",
+      "Both the statements I and II are effects of some common cause"
+    ],
+    "answer": 3,
+    "explanation": "The prices of petrol and diesel being stagnant in the domestic market and the increase in the same in the international market must be backed by independent causes.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/cause-and-effect/"
+  },
+  {
+    "id": "indiabix-cause-effect-221b27b8eb",
+    "category": "reasoning",
+    "topic": "cause-effect",
+    "source_topic": "Logical Reasoning - Cause and Effect",
+    "difficulty": null,
+    "question": "Statements: The government has recently fixed the fees for professional courses offered by the unaided institutions which are much lower than the fees charged last year. The parents of the aspiring students launched a severe agitation last year protesting against the high fees charged by the unaided institutions.",
+    "passage": null,
+    "options": [
+      "Statement I is the cause and statement II is its effect",
+      "Statement II is the cause and statement I is its effect",
+      "Both the statements I and II are independent causes",
+      "Both the statements I and II are effects of independent causes",
+      "Both the statements I and II are effects of some common cause"
+    ],
+    "answer": 1,
+    "explanation": "The parents' protest against high fees being charged by the institutions led the government to interfere and fix the fees at a more affordable level.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/cause-and-effect/"
+  },
+  {
+    "id": "indiabix-cause-effect-2d5eb54352",
+    "category": "reasoning",
+    "topic": "cause-effect",
+    "source_topic": "Logical Reasoning - Cause and Effect",
+    "difficulty": null,
+    "question": "Statements: The Reserve Bank of India has recently put restrictions on few small banks in the country. The small banks in the private and co-operative sector in India are not in a position to withstand the competitions of the bigger in the public sector.",
+    "passage": null,
+    "options": [
+      "Statement I is the cause and statement II is its effect",
+      "Statement II is the cause and statement I is its effect",
+      "Both the statements I and II are independent causes",
+      "Both the statements I and II are effects of independent causes",
+      "Both the statements I and II are effects of some common cause"
+    ],
+    "answer": 1,
+    "explanation": "The inability of the small banks to compete with the bigger ones shall not ensure security and good service to the customers, which is an essential concomitant that has to be looked into by the Reserve Bank. I seems to be a remedial step for the same.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/cause-and-effect/"
+  },
+  {
+    "id": "indiabix-cause-effect-b763728766",
+    "category": "reasoning",
+    "topic": "cause-effect",
+    "source_topic": "Logical Reasoning - Cause and Effect",
+    "difficulty": null,
+    "question": "Statements: All the schools in the area had to be kept closed for most part of the week. Many parents have withdrawn their children from the local schools.",
+    "passage": null,
+    "options": [
+      "Statement I is the cause and statement II is its effect",
+      "Statement II is the cause and statement I is its effect",
+      "Both the statements I and II are independent causes",
+      "Both the statements I and II are effects of independent causes",
+      "Both the statements I and II are effects of some common cause"
+    ],
+    "answer": 3,
+    "explanation": "Closing the schools for a week and the parents withdrawing their wards from the local schools are independent issues, which must have been triggered by different individual causes.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/cause-and-effect/"
+  },
+  {
+    "id": "indiabix-cause-effect-ba7d233678",
+    "category": "reasoning",
+    "topic": "cause-effect",
+    "source_topic": "Logical Reasoning - Cause and Effect",
+    "difficulty": null,
+    "question": "Statements: India has surpassed the value of tea exports this year over all the earlier years due to an increase in demand for quality tea in the European market. There is an increase in demand of coffee in the domestic market during the last two years.",
+    "passage": null,
+    "options": [
+      "Statement I is the cause and statement II is its effect",
+      "Statement II is the cause and statement I is its effect",
+      "Both the statements I and II are independent causes",
+      "Both the statements I and II are effects of independent causes",
+      "Both the statements I and II are effects of some common cause"
+    ],
+    "answer": 2,
+    "explanation": "The two statements discuss two separate statistical and generalised results.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/cause-and-effect/"
+  },
+  {
+    "id": "indiabix-non-verbal-19f55c7aec",
+    "category": "reasoning",
+    "topic": "non-verbal",
+    "source_topic": "Non Verbal Reasoning - Water Images",
+    "difficulty": null,
+    "question": "Choose the alternative which is closely resembles the water-image of the given combination.",
+    "passage": null,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "images": [
+      "data/images/indiabix-non-verbal-19f55c7aec-1.png"
+    ],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/non-verbal-reasoning/water-images/"
+  },
+  {
+    "id": "indiabix-non-verbal-a7ab0bb89f",
+    "category": "reasoning",
+    "topic": "non-verbal",
+    "source_topic": "Non Verbal Reasoning - Image Analysis",
+    "difficulty": null,
+    "question": "Find out which of the figures (1), (2), (3) and (4) can be formed from the pieces given in figure (X).",
+    "passage": null,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "images": [
+      "data/images/indiabix-non-verbal-a7ab0bb89f-1.png"
+    ],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/non-verbal-reasoning/image-analysis/"
+  },
+  {
+    "id": "indiabix-statement-argument-655500020f",
+    "category": "reasoning",
+    "topic": "statement-argument",
+    "source_topic": "Logical Reasoning - Statement and Argument",
+    "difficulty": null,
+    "question": "Statement: Should India encourage exports, when most things are insufficient for internal use itself? Arguments: Yes. We have to earn foreign exchange to pay for our imports. No. Even selective encouragement would lead to shortages.",
+    "passage": null,
+    "options": [
+      "Only argument I is strong",
+      "Only argument II is strong",
+      "Either I or II is strong",
+      "Neither I nor II is strong",
+      "Both I and II are strong"
+    ],
+    "answer": 0,
+    "explanation": "Clearly, India can export only the surplus and that which can be saved after fulfilling its own needs, to pay for its imports. Encouragement to export cannot lead to shortages as it shall provide the resources for imports. So, only argument I holds.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/statement-and-argument/"
+  },
+  {
+    "id": "indiabix-statement-argument-d3c76cfa5b",
+    "category": "reasoning",
+    "topic": "statement-argument",
+    "source_topic": "Logical Reasoning - Statement and Argument",
+    "difficulty": null,
+    "question": "Statement: Should all the drugs patented and manufactured in Western countries be first tried out on sample basis before giving licence for sale to general public in India? Arguments: Yes. Many such drugs require different doses and duration for Indian population and hence it is necessary. No. This is just not feasible and hence cannot be implemented.",
+    "passage": null,
+    "options": [
+      "Only argument I is strong",
+      "Only argument II is strong",
+      "Either I or II is strong",
+      "Neither I nor II is strong",
+      "Both I and II are strong"
+    ],
+    "answer": 0,
+    "explanation": "Clearly, health of the citizens is an issue of major concern for the Government. So, a product like drugs, must be first studied and tested in the Indian context before giving licence for its sale. So, only argument I holds strong.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/statement-and-argument/"
+  },
+  {
+    "id": "indiabix-statement-argument-e58100c407",
+    "category": "reasoning",
+    "topic": "statement-argument",
+    "source_topic": "Logical Reasoning - Statement and Argument",
+    "difficulty": null,
+    "question": "Statement: Should India make efforts to harness solar energy to fulfil its energy requirements? Arguments: Yes, Most of the energy sources used at present is exhaustible. No. Harnessing solar energy requires a lot of capital, which India lacks in.",
+    "passage": null,
+    "options": [
+      "Only argument I is strong",
+      "Only argument II is strong",
+      "Either I or II is strong",
+      "Neither I nor II is strong",
+      "Both I and II are strong"
+    ],
+    "answer": 0,
+    "explanation": "Clearly, harnessing solar energy will be helpful as it is an inexhaustible resource unlike other resources. So, argument I holds. But argument II is vague as solar energy is the cheapest form of energy.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/statement-and-argument/"
+  },
+  {
+    "id": "indiabix-statement-argument-86af81f4ee",
+    "category": "reasoning",
+    "topic": "statement-argument",
+    "source_topic": "Logical Reasoning - Statement and Argument",
+    "difficulty": null,
+    "question": "Statement: Should there be students union in college/university? Arguments: No. This will create a political atmosphere in the campus. Yes, it is very necessary Students are future political leaders.",
+    "passage": null,
+    "options": [
+      "Only argument I is strong",
+      "Only argument II is strong",
+      "Either I or II is strong",
+      "Neither I nor II is strong",
+      "Both I and II are strong"
+    ],
+    "answer": 4,
+    "explanation": "The students union formation shall be a step towards giving to students the basic education in the field of politics. However, it shall create the same political atmosphere in the campus. Thus, both the arguments hold strong.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/statement-and-argument/"
+  },
+  {
+    "id": "indiabix-statement-argument-2b32b5954d",
+    "category": "reasoning",
+    "topic": "statement-argument",
+    "source_topic": "Logical Reasoning - Statement and Argument",
+    "difficulty": null,
+    "question": "Statement: Should India give away Kashmir to Pakistan? Arguments: No. Kashmir is a beautiful state. It earns a lot of foreign exchange for India. Yes. This would help settle conflicts.",
+    "passage": null,
+    "options": [
+      "Only argument I is strong",
+      "Only argument II is strong",
+      "Either I or II is strong",
+      "Neither I nor II is strong",
+      "Both I and II are strong"
+    ],
+    "answer": 0,
+    "explanation": "Clearly, India cannot part with a state that is a major foreign exchange earner to it. So, argument I holds strong. Further, giving away a piece of land unconditionally and unreasonably is no solution to settle disputes. So, argument II is vague.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/statement-and-argument/"
+  },
+  {
+    "id": "indiabix-course-of-action-62f0433cb6",
+    "category": "reasoning",
+    "topic": "course-of-action",
+    "source_topic": "Logical Reasoning - Course of Action",
+    "difficulty": null,
+    "question": "Statement: A large number of people in ward X of the city are diagnosed to be suffering from a fatal malaria type. Courses of Action: The city municipal authority should take immediate steps to carry out extensive fumigation in ward X. The people in the area should be advised to take steps to avoid mosquito bites.",
+    "passage": null,
+    "options": [
+      "Only I follows",
+      "Only II follows",
+      "Either I or II follows",
+      "Neither I nor II follows",
+      "Both I and II follow"
+    ],
+    "answer": 4,
+    "explanation": "Clearly, prevention from mosquitoes and elimination of mosquitoes are two ways to prevent malaria. So, both the courses follow.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/course-of-action/"
+  },
+  {
+    "id": "indiabix-course-of-action-ee3b4fe0a4",
+    "category": "reasoning",
+    "topic": "course-of-action",
+    "source_topic": "Logical Reasoning - Course of Action",
+    "difficulty": null,
+    "question": "Statement: Severe drought is reported to have set in several parts of the country. Courses of Action: Government should immediately make arrangement for providing financial assistance to those affected. Food, water and fodder should immediately be sent to all these areas to save the people and cattle.",
+    "passage": null,
+    "options": [
+      "Only I follows",
+      "Only II follows",
+      "Either I or II follows",
+      "Neither I nor II follows",
+      "Both I and II follow"
+    ],
+    "answer": 1,
+    "explanation": "In the break-out of a natural calamity, the basic duty of the government becomes to provide the basic amenities essential to save the lives of people and cattle. Providing financial assistance to all would put undue burden on the country's resources. So, only II follows.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/course-of-action/"
+  },
+  {
+    "id": "indiabix-course-of-action-281cfd5d93",
+    "category": "reasoning",
+    "topic": "course-of-action",
+    "source_topic": "Logical Reasoning - Course of Action",
+    "difficulty": null,
+    "question": "Statement: Since its launching in 1981, Vayudoot has so far accumulated losses amounting to Rs 153 crore. Courses of Action: Vayudoot should be directed to reduce wasteful expenditure and to increase passenger fare. An amount of about Rs 300 crore should be provided to Vayudoot to make the airliner economically viable.",
+    "passage": null,
+    "options": [
+      "Only I follows",
+      "Only II follows",
+      "Either I or II follows",
+      "Neither I nor II follows",
+      "Both I and II follow"
+    ],
+    "answer": 0,
+    "explanation": "Clearly, for better economic gain, losses should be reduced and income increased. So, only course I follows.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/course-of-action/"
+  },
+  {
+    "id": "indiabix-course-of-action-1802fe6ce1",
+    "category": "reasoning",
+    "topic": "course-of-action",
+    "source_topic": "Logical Reasoning - Course of Action",
+    "difficulty": null,
+    "question": "Statement: Exporters in the capital are alleging that commercial banks are violating a Reserve Bank of India directive to operate a post shipment export credit denominated in foreign currency at international rates from January this year. Courses of Action: The officers concerned in the commercial banks are to be suspended. The RBI should be asked to stop giving such directives to commercial banks.",
+    "passage": null,
+    "options": [
+      "Only I follows",
+      "Only II follows",
+      "Either I or II follows",
+      "Neither I nor II follows",
+      "Both I and II follow"
+    ],
+    "answer": 3,
+    "explanation": "The statement mentions that the commercial banks violate a directive issued by the RBI. The remedy is only to make the banks implement the Act. So, none of the courses follows.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/course-of-action/"
+  },
+  {
+    "id": "indiabix-course-of-action-9a6e3f9af3",
+    "category": "reasoning",
+    "topic": "course-of-action",
+    "source_topic": "Logical Reasoning - Course of Action",
+    "difficulty": null,
+    "question": "Statement: A large number of people die every year due to drinking polluted water during the summer. Courses of Action: The government should make adequate arrangements to provide safe drinking water to all its citizens. The people should be educated about the dangers of drinking polluted water.",
+    "passage": null,
+    "options": [
+      "Only I follows",
+      "Only II follows",
+      "Either I or II follows",
+      "Neither I nor II follows",
+      "Both I and II follow"
+    ],
+    "answer": 4,
+    "explanation": "The situation demands creating awareness among people about the dangers of drinking polluted water so that they themselves refrain from the same, and at the same time taking steps to provide safe drinking water. So, both the courses follow.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/course-of-action/"
+  },
+  {
+    "id": "indiabix-non-verbal-427a271532",
+    "category": "reasoning",
+    "topic": "non-verbal",
+    "source_topic": "Non Verbal Reasoning - Classification",
+    "difficulty": null,
+    "question": "Choose the figure which is different from the rest. (1) (2) (3) (4) (5)",
+    "passage": null,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 0,
+    "explanation": "The pins, equal in number to the number of sides in the main figure are attached to the midpoint of a side of the main figure in case of figures (2), (3), (4) and (5). In fig. (1), these pins are attached to a vertex of the main figure.",
+    "images": [
+      "data/images/indiabix-non-verbal-427a271532-1.png"
+    ],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/non-verbal-reasoning/classification/"
+  },
+  {
+    "id": "indiabix-syllogism-7e6b8c2b1d",
+    "category": "reasoning",
+    "topic": "syllogism",
+    "source_topic": "Verbal Reasoning - Syllogism",
+    "difficulty": null,
+    "question": "Statements: Some actors are singers. All the singers are dancers. Conclusions: Some actors are dancers. No singer is actor.",
+    "passage": null,
+    "options": [
+      "Only (1) conclusion follows",
+      "Only (2) conclusion follows",
+      "Either (1) or (2) follows",
+      "Neither (1) nor (2) follows",
+      "Both (1) and (2) follow"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/syllogism/"
+  },
+  {
+    "id": "indiabix-syllogism-489257b222",
+    "category": "reasoning",
+    "topic": "syllogism",
+    "source_topic": "Verbal Reasoning - Syllogism",
+    "difficulty": null,
+    "question": "Statements: All the harmoniums are instruments. All the instruments are flutes. Conclusions: All the flutes are instruments. All the harmoniums are flutes.",
+    "passage": null,
+    "options": [
+      "Only (1) conclusion follows",
+      "Only (2) conclusion follows",
+      "Either (1) or (2) follows",
+      "Neither (1) nor (2) follows",
+      "Both (1) and (2) follow"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/syllogism/"
+  },
+  {
+    "id": "indiabix-syllogism-4cfce21a2b",
+    "category": "reasoning",
+    "topic": "syllogism",
+    "source_topic": "Verbal Reasoning - Syllogism",
+    "difficulty": null,
+    "question": "Statements: Some mangoes are yellow. Some tixo are mangoes. Conclusions: Some mangoes are green. Tixo is a yellow.",
+    "passage": null,
+    "options": [
+      "Only (1) conclusion follows",
+      "Only (2) conclusion follows",
+      "Either (1) or (2) follows",
+      "Neither (1) nor (2) follows",
+      "Both (1) and (2) follow"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/syllogism/"
+  },
+  {
+    "id": "indiabix-syllogism-f117439f20",
+    "category": "reasoning",
+    "topic": "syllogism",
+    "source_topic": "Verbal Reasoning - Syllogism",
+    "difficulty": null,
+    "question": "Statements: Some ants are parrots. All the parrots are apples. Conclusions: All the apples are parrots. Some ants are apples.",
+    "passage": null,
+    "options": [
+      "Only (1) conclusion follows",
+      "Only (2) conclusion follows",
+      "Either (1) or (2) follows",
+      "Neither (1) nor (2) follows",
+      "Both (1) and (2) follow"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/syllogism/"
+  },
+  {
+    "id": "indiabix-syllogism-58004cddd2",
+    "category": "reasoning",
+    "topic": "syllogism",
+    "source_topic": "Verbal Reasoning - Syllogism",
+    "difficulty": null,
+    "question": "Statements: Some papers are pens. All the pencils are pens. Conclusions: Some pens are pencils. Some pens are papers.",
+    "passage": null,
+    "options": [
+      "Only (1) conclusion follows",
+      "Only (2) conclusion follows",
+      "Either (1) or (2) follows",
+      "Neither (1) nor (2) follows",
+      "Both (1) and (2) follow"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/syllogism/"
+  },
+  {
+    "id": "indiabix-non-verbal-b8286c2068",
+    "category": "reasoning",
+    "topic": "non-verbal",
+    "source_topic": "Non Verbal Reasoning - Cubes and Dice",
+    "difficulty": null,
+    "question": "Choose the box that is similar to the box formed from the given sheet of paper (X).",
+    "passage": null,
+    "options": [
+      "1 and 2 only",
+      "2 and 4 only",
+      "2 and 3 only",
+      "1 and 4 only"
+    ],
+    "answer": 2,
+    "explanation": "The fig. (X) is similar to the Form VI . So, when a cube is formed by folding the sheet shown in fig. (X), then is one of the faces of the cube. However, the cube in fig. (1) has two such faces and fig. (4) has a face which is completely shaded. So, these two cubes cannot be formed. Hence, only the cubes in figures (2) and (3) can be formed.",
+    "images": [
+      "data/images/indiabix-non-verbal-b8286c2068-1.png"
+    ],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/non-verbal-reasoning/cubes-and-dice/"
+  },
+  {
+    "id": "indiabix-non-verbal-f7b250acc2",
+    "category": "reasoning",
+    "topic": "non-verbal",
+    "source_topic": "Non Verbal Reasoning - Cubes and Dice",
+    "difficulty": null,
+    "question": "How many dots lie opposite to the face having three dots, when the given figure is folded to form a cube?",
+    "passage": null,
+    "options": [
+      "2",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": 3,
+    "explanation": "The given figure is similar to Form V . Therefore, when this figure is folded to form a cube then the face bearing six dots will lie opposite the face bearing three dots.",
+    "images": [
+      "data/images/indiabix-non-verbal-f7b250acc2-1.png"
+    ],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/non-verbal-reasoning/cubes-and-dice/"
+  },
+  {
+    "id": "indiabix-cause-effect-4cb9303607",
+    "category": "reasoning",
+    "topic": "cause-effect",
+    "source_topic": "Verbal Reasoning - Cause and Effect",
+    "difficulty": null,
+    "question": "Statements: Standard of living among the middle class society is constantly going up since part of few years. Indian Economy is observing remarkable growth.",
+    "passage": null,
+    "options": [
+      "Statement I is the cause and statement II is its effect.",
+      "Statement II is the cause and statement I is its effect.",
+      "Both the statements I and II are independent causes.",
+      "Both the statements I and II are effects of independent causes.",
+      "Both the statements I and II are effects of some common cause."
+    ],
+    "answer": 0,
+    "explanation": "Since the standard of living among the middle class society is constantly going up so Indian Economy is observing remarkable growth.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/cause-and-effect/"
+  },
+  {
+    "id": "indiabix-cause-effect-1b2cb28e9d",
+    "category": "reasoning",
+    "topic": "cause-effect",
+    "source_topic": "Verbal Reasoning - Cause and Effect",
+    "difficulty": null,
+    "question": "Statements: The meteorological Department has issued a statement mentioning deficient rainfall during monsoon in many parts of the country. The Government has lowered the revised estimated GDP growth from the level of earlier estimates.",
+    "passage": null,
+    "options": [
+      "Statement I is the cause and statement II is its effect.",
+      "Statement II is the cause and statement I is its effect.",
+      "Both the statements I and II are independent causes.",
+      "Both the statements I and II are effects of independent causes.",
+      "Both the statements I and II are effects of some common cause."
+    ],
+    "answer": 3,
+    "explanation": "Both the statements I and II are effects of independent causes.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/cause-and-effect/"
+  },
+  {
+    "id": "indiabix-cause-effect-d95a4ede60",
+    "category": "reasoning",
+    "topic": "cause-effect",
+    "source_topic": "Verbal Reasoning - Cause and Effect",
+    "difficulty": null,
+    "question": "Statements: The staff of Airport Authorities called off the strike they were observing in protest against privatization. The staff of Airport Authorities went on strike anticipating a threat to their jobs.",
+    "passage": null,
+    "options": [
+      "Statement I is the cause and statement II is its effect.",
+      "Statement II is the cause and statement I is its effect.",
+      "Both the statements I and II are independent causes.",
+      "Both the statements I and II are effects of independent causes.",
+      "Both the statements I and II are effects of some common cause."
+    ],
+    "answer": 3,
+    "explanation": "Both the statements I and II are effects of independent causes.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/cause-and-effect/"
+  },
+  {
+    "id": "indiabix-cause-effect-408f567faa",
+    "category": "reasoning",
+    "topic": "cause-effect",
+    "source_topic": "Verbal Reasoning - Cause and Effect",
+    "difficulty": null,
+    "question": "Statements: A huge truck overturned on the middle of the road last night. The police had cordoned of entire area in the locality this morning for half of the day.",
+    "passage": null,
+    "options": [
+      "Statement I is the cause and statement II is its effect.",
+      "Statement II is the cause and statement I is its effect.",
+      "Both the statements I and II are independent causes.",
+      "Both the statements I and II are effects of independent causes.",
+      "Both the statements I and II are effects of some common cause."
+    ],
+    "answer": 0,
+    "explanation": "Since a huge truck overturned on the middle of the road last night, so, the police had cordoned off the entire area in the locality last morning for half of the day.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/cause-and-effect/"
+  },
+  {
+    "id": "indiabix-cause-effect-a4f995b3dc",
+    "category": "reasoning",
+    "topic": "cause-effect",
+    "source_topic": "Verbal Reasoning - Cause and Effect",
+    "difficulty": null,
+    "question": "Statements: Importance of Yoga and exercise is being realized by all sections of the society. There is an increasing awareness about health in the society particularly among middle ages group of people.",
+    "passage": null,
+    "options": [
+      "Statement I is the cause and statement II is its effect.",
+      "Statement II is the cause and statement I is its effect.",
+      "Both the statements I and II are independent causes.",
+      "Both the statements I and II are effects of independent causes.",
+      "Both the statements I and II are effects of some common cause."
+    ],
+    "answer": 1,
+    "explanation": "As the awareness about health in the society is increasing particularly among middle-aged group of people, the importance of Yoga and exercise is being realized by all sections of the society.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/cause-and-effect/"
+  },
+  {
+    "id": "indiabix-data-sufficiency-c0e2cab856",
+    "category": "reasoning",
+    "topic": "data-sufficiency",
+    "source_topic": "Verbal Reasoning - Data Sufficiency",
+    "difficulty": null,
+    "question": "Question: In which year was Rahul born ? Statements: Rahul at present is 25 years younger to his mother. Rahul's brother, who was born in 1964, is 35 years younger to his mother.",
+    "passage": null,
+    "options": [
+      "I alone is sufficient while II alone is not sufficient",
+      "II alone is sufficient while I alone is not sufficient",
+      "Either I or II is sufficient",
+      "Neither I nor II is sufficient",
+      "Both I and II are sufficient"
+    ],
+    "answer": 4,
+    "explanation": "From both I and II, we find that Rahul is (35 - 25) = 10 years older than his brother, who was born in 1964. So, Rahul was born in 1954.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/data-sufficiency/"
+  },
+  {
+    "id": "indiabix-data-sufficiency-95a25abbfe",
+    "category": "reasoning",
+    "topic": "data-sufficiency",
+    "source_topic": "Verbal Reasoning - Data Sufficiency",
+    "difficulty": null,
+    "question": "Question: What will be the total weight of 10 poles, each of the same weight ? Statements: One-fourth of the weight of each pole is 5 kg. The total weight of three poles is 20 kilograms more than the total weight of two poles.",
+    "passage": null,
+    "options": [
+      "I alone is sufficient while II alone is not sufficient",
+      "II alone is sufficient while I alone is not sufficient",
+      "Either I or II is sufficient",
+      "Neither I nor II is sufficient",
+      "Both I and II are sufficient"
+    ],
+    "answer": 2,
+    "explanation": "From I, we conclude that weight of each pole = (4x5) kg = 20 kg. So, total weight of 10 poles = (20 x 10) kg = 200 kg. From II, we conclude that: Weight of each pole = (weight of 3 poles) - (weight of 2 poles) = 20 kg. So, total weight of 10 pojes = (20 x 10) kg = 200 kg.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/data-sufficiency/"
+  },
+  {
+    "id": "indiabix-data-sufficiency-c7919dd735",
+    "category": "reasoning",
+    "topic": "data-sufficiency",
+    "source_topic": "Verbal Reasoning - Data Sufficiency",
+    "difficulty": null,
+    "question": "Question: How many children does M have ? Statements: H is the only daughter of X who is wife of M. K and J are brothers of M.",
+    "passage": null,
+    "options": [
+      "I alone is sufficient while II alone is not sufficient",
+      "II alone is sufficient while I alone is not sufficient",
+      "Either I or II is sufficient",
+      "Neither I nor II is sufficient",
+      "Both I and II are sufficient"
+    ],
+    "answer": 3,
+    "explanation": "From I, we conclude that H is the only daughter of M. But this does not indicate that M has no son. The information given in II is immaterial.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/data-sufficiency/"
+  },
+  {
+    "id": "indiabix-data-sufficiency-d90a9da686",
+    "category": "reasoning",
+    "topic": "data-sufficiency",
+    "source_topic": "Verbal Reasoning - Data Sufficiency",
+    "difficulty": null,
+    "question": "Question: How much was the total sale of the company ? Statements: The company sold 8000 units of product A each costing Rs. 25. This company has no other product line.",
+    "passage": null,
+    "options": [
+      "I alone is sufficient while II alone is not sufficient",
+      "II alone is sufficient while I alone is not sufficient",
+      "Either I or II is sufficient",
+      "Neither I nor II is sufficient",
+      "Both I and II are sufficient"
+    ],
+    "answer": 4,
+    "explanation": "From I, total sale of product A = Rs. (8000 x 25) = Rs. 200000. From II, we know that the company deals only in product A. This implies that sale of product A is the total sale of the company, which is Rs. 200000.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/data-sufficiency/"
+  },
+  {
+    "id": "indiabix-data-sufficiency-d80926726f",
+    "category": "reasoning",
+    "topic": "data-sufficiency",
+    "source_topic": "Verbal Reasoning - Data Sufficiency",
+    "difficulty": null,
+    "question": "Question: The last Sunday of March, 2006 fell on which date ? Statements: The first Sunday of that month fell on 5th. The last day of that month was Friday.",
+    "passage": null,
+    "options": [
+      "I alone is sufficient while II alone is not sufficient",
+      "II alone is sufficient while I alone is not sufficient",
+      "Either I or II is sufficient",
+      "Neither I nor II is sufficient",
+      "Both I and II are sufficient"
+    ],
+    "answer": 2,
+    "explanation": "From I, we conclude that 5th, 12th, 19th and 26th of March, 2006 were Sundays. So, the last Sunday fell on 26th. From II, we conclude that 31st March, 2006 was Friday. Thus, 26th March, 2006 was the last Sunday of the month.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/data-sufficiency/"
+  },
+  {
+    "id": "indiabix-seating-arrangement-191e69b74c",
+    "category": "reasoning",
+    "topic": "seating-arrangement",
+    "source_topic": "Verbal Reasoning - Seating Arrangement",
+    "difficulty": null,
+    "question": "A, P, R, X, S and Z are sitting in a row. S and Z are in the centre. A and P are at the ends. R is sitting to the left of A. Who is to the right of P ?",
+    "passage": null,
+    "options": [
+      "A",
+      "X",
+      "S",
+      "Z"
+    ],
+    "answer": 1,
+    "explanation": "The seating arrangement is as follows: Therefore, right of P is X.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/seating-arrangement/"
+  },
+  {
+    "id": "indiabix-seating-arrangement-2214165cdd",
+    "category": "reasoning",
+    "topic": "seating-arrangement",
+    "source_topic": "Verbal Reasoning - Seating Arrangement",
+    "difficulty": null,
+    "question": "There are 8 houses in a line and in each house only one boy lives with the conditions as given below: Jack is not the neighbour Siman. Harry is just next to the left of Larry. There is at least one to the left of Larry. Paul lives in one of the two houses in the middle. Mike lives in between Paul and Larry. If at least one lives to the right of Robert and Harry is not between Taud and Larry, then which one of the following statement is not correct ?",
+    "passage": null,
+    "options": [
+      "Robert is not at the left end.",
+      "Robert is in between Simon and Taud.",
+      "Taud is in between Paul and Jack.",
+      "There are three persons to the right of Paul."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/seating-arrangement/"
+  },
+  {
+    "id": "indiabix-seating-arrangement-7fe946a561",
+    "category": "reasoning",
+    "topic": "seating-arrangement",
+    "source_topic": "Verbal Reasoning - Seating Arrangement",
+    "difficulty": null,
+    "question": "A, B, C, D and E are sitting on a bench. A is sitting next to B, C is sitting next to D, D is not sitting with E who is on the left end of the bench. C is on the second position from the right. A is to the right of B and E. A and C are sitting together. In which position A is sitting ?",
+    "passage": null,
+    "options": [
+      "Between B and D",
+      "Between B and C",
+      "Between E and D",
+      "Between C and E"
+    ],
+    "answer": 1,
+    "explanation": "Therefore, A is sitting in between B and C.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/seating-arrangement/"
+  },
+  {
+    "id": "indiabix-non-verbal-f1cabf7a20",
+    "category": "reasoning",
+    "topic": "non-verbal",
+    "source_topic": "Non Verbal Reasoning - Paper Folding",
+    "difficulty": null,
+    "question": "Find out from amongst the four alternatives as to how the pattern would appear when the transparent sheet is folded at the dotted line. (X) (1) (2) (3) (4)",
+    "passage": null,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "images": [
+      "data/images/indiabix-non-verbal-f1cabf7a20-1.png"
+    ],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/non-verbal-reasoning/paper-folding/"
+  },
+  {
+    "id": "indiabix-non-verbal-4ff441d566",
+    "category": "reasoning",
+    "topic": "non-verbal",
+    "source_topic": "Non Verbal Reasoning - Pattern Completion",
+    "difficulty": null,
+    "question": "Identify the figure that completes the pattern. (X) (1) (2) (3) (4)",
+    "passage": null,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "images": [
+      "data/images/indiabix-non-verbal-4ff441d566-1.png"
+    ],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/non-verbal-reasoning/pattern-completion/"
+  },
+  {
+    "id": "indiabix-non-verbal-0ade14d720",
+    "category": "reasoning",
+    "topic": "non-verbal",
+    "source_topic": "Non Verbal Reasoning - Mirror Images",
+    "difficulty": null,
+    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.",
+    "passage": null,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "images": [
+      "data/images/indiabix-non-verbal-0ade14d720-1.png"
+    ],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/non-verbal-reasoning/mirror-images/"
+  },
+  {
+    "id": "indiabix-non-verbal-9189e84da6",
+    "category": "reasoning",
+    "topic": "non-verbal",
+    "source_topic": "Non Verbal Reasoning - Rule Detection",
+    "difficulty": null,
+    "question": "Choose the set of figures which follows the given rule. Rule: Closed figures losing their sides and open figures gaining their sides.",
+    "passage": null,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "images": [
+      "data/images/indiabix-non-verbal-9189e84da6-1.png"
+    ],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/non-verbal-reasoning/rule-detection/"
+  },
+  {
+    "id": "indiabix-non-verbal-ed7d3250a5",
+    "category": "reasoning",
+    "topic": "non-verbal",
+    "source_topic": "Non Verbal Reasoning - Rule Detection",
+    "difficulty": null,
+    "question": "Choose the set of figures which follows the given rule. Rule: Any figure can be traced by a single unbroken line without retracting.",
+    "passage": null,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "images": [
+      "data/images/indiabix-non-verbal-ed7d3250a5-1.png"
+    ],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/non-verbal-reasoning/rule-detection/"
+  },
+  {
+    "id": "indiabix-non-verbal-61801e3634",
+    "category": "reasoning",
+    "topic": "non-verbal",
+    "source_topic": "Non Verbal Reasoning - Rule Detection",
+    "difficulty": null,
+    "question": "Choose the set of figures which follows the given rule. Rule: Closed figures gradually become open and open figures gradually become closed.",
+    "passage": null,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "images": [
+      "data/images/indiabix-non-verbal-61801e3634-1.png"
+    ],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/non-verbal-reasoning/rule-detection/"
+  },
+  {
+    "id": "indiabix-non-verbal-6c34e94d83",
+    "category": "reasoning",
+    "topic": "non-verbal",
+    "source_topic": "Non Verbal Reasoning - Rule Detection",
+    "difficulty": null,
+    "question": "Choose the set of figures which follows the given rule. Rule: Closed figures become more and more open and open figures become more and more closed.",
+    "passage": null,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "images": [
+      "data/images/indiabix-non-verbal-6c34e94d83-1.png"
+    ],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/non-verbal-reasoning/rule-detection/"
+  },
+  {
+    "id": "indiabix-non-verbal-30aed5fb2b",
+    "category": "reasoning",
+    "topic": "non-verbal",
+    "source_topic": "Non Verbal Reasoning - Rule Detection",
+    "difficulty": null,
+    "question": "Choose the set of figures which follows the given rule. Rule: The series becomes complex as it proceeds.",
+    "passage": null,
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "images": [
+      "data/images/indiabix-non-verbal-30aed5fb2b-1.png"
+    ],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/non-verbal-reasoning/rule-detection/"
+  },
+  {
+    "id": "indiabix-puzzles-2d0372fc61",
+    "category": "reasoning",
+    "topic": "puzzles",
+    "source_topic": "Logical Reasoning - Logical Problems",
+    "difficulty": null,
+    "question": "Tanya is older than Eric. Cliff is older than Tanya. Eric is older than Cliff. If the first two statements are true, the third statement is",
+    "passage": null,
+    "options": [
+      "true",
+      "false",
+      "uncertain"
+    ],
+    "answer": 1,
+    "explanation": "Because the first two statements are true, Eric is the youngest of the three, so the third statement must be false.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/logical-problems/"
+  },
+  {
+    "id": "indiabix-puzzles-bf07aa87f8",
+    "category": "reasoning",
+    "topic": "puzzles",
+    "source_topic": "Logical Reasoning - Logical Problems",
+    "difficulty": null,
+    "question": "Blueberries cost more than strawberries. Blueberries cost less than raspberries. Raspberries cost more than strawberries and blueberries. If the first two statements are true, the third statement is",
+    "passage": null,
+    "options": [
+      "true",
+      "false",
+      "uncertain"
+    ],
+    "answer": 0,
+    "explanation": "Because the first two statements are true, raspberries are the most expensive of the three.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/logical-problems/"
+  },
+  {
+    "id": "indiabix-puzzles-5861234275",
+    "category": "reasoning",
+    "topic": "puzzles",
+    "source_topic": "Logical Reasoning - Logical Problems",
+    "difficulty": null,
+    "question": "All the trees in the park are flowering trees. Some of the trees in the park are dogwoods. All dogwoods in the park are flowering trees. If the first two statements are true, the third statement is",
+    "passage": null,
+    "options": [
+      "true",
+      "false",
+      "uncertain"
+    ],
+    "answer": 0,
+    "explanation": "All of the trees in the park are flowering trees, So all dogwoods in the park are flowering trees.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/logical-problems/"
+  },
+  {
+    "id": "indiabix-puzzles-9c12097bd3",
+    "category": "reasoning",
+    "topic": "puzzles",
+    "source_topic": "Logical Reasoning - Logical Problems",
+    "difficulty": null,
+    "question": "Mara runs faster than Gail. Lily runs faster than Mara. Gail runs faster than Lily. If the first two statements are true, the third statement is",
+    "passage": null,
+    "options": [
+      "true",
+      "false",
+      "uncertain"
+    ],
+    "answer": 1,
+    "explanation": "We know from the first two statements that Lily runs fastest. Therefore, the third statement must be false.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/logical-problems/"
+  },
+  {
+    "id": "indiabix-puzzles-4061d1bfab",
+    "category": "reasoning",
+    "topic": "puzzles",
+    "source_topic": "Logical Reasoning - Logical Problems",
+    "difficulty": null,
+    "question": "Apartments in the Riverdale Manor cost less than apartments in The Gaslight Commons. Apartments in the Livingston Gate cost more than apartments in the The Gaslight Commons. Of the three apartment buildings, the Livingston Gate costs the most. If the first two statements are true, the third statement is",
+    "passage": null,
+    "options": [
+      "true",
+      "false",
+      "uncertain"
+    ],
+    "answer": 0,
+    "explanation": "Since the Gaslight Commons costs more than the Riverdale Manor and the Livingston Gate costs more than the Gaslight Commons, it is true that the Livingston Gate costs the most.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/logical-problems/"
+  },
+  {
+    "id": "indiabix-direction-sense-4794d87fd7",
+    "category": "reasoning",
+    "topic": "direction-sense",
+    "source_topic": "Verbal Reasoning - Direction Sense Test",
+    "difficulty": null,
+    "question": "One morning Udai and Vishal were talking to each other face to face at a crossing. If Vishal's shadow was exactly to the left of Udai, which direction was Udai facing?",
+    "passage": null,
+    "options": [
+      "East",
+      "West",
+      "North",
+      "South"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/direction-sense-test/"
+  },
+  {
+    "id": "indiabix-direction-sense-a1b2efffc8",
+    "category": "reasoning",
+    "topic": "direction-sense",
+    "source_topic": "Verbal Reasoning - Direction Sense Test",
+    "difficulty": null,
+    "question": "Y is in the East of X which is in the North of Z. If P is in the South of Z, then in which direction of Y, is P?",
+    "passage": null,
+    "options": [
+      "North",
+      "South",
+      "South-East",
+      "None of these"
+    ],
+    "answer": 3,
+    "explanation": "P is in South-West of Y.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/direction-sense-test/"
+  },
+  {
+    "id": "indiabix-direction-sense-53a822e831",
+    "category": "reasoning",
+    "topic": "direction-sense",
+    "source_topic": "Verbal Reasoning - Direction Sense Test",
+    "difficulty": null,
+    "question": "If South-East becomes North, North-East becomes West and so on. What will West become?",
+    "passage": null,
+    "options": [
+      "North-East",
+      "North-West",
+      "South-East",
+      "South-West"
+    ],
+    "answer": 2,
+    "explanation": "It is clear from the diagrams that new name of West will become South-East.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/direction-sense-test/"
+  },
+  {
+    "id": "indiabix-direction-sense-a51afe75c3",
+    "category": "reasoning",
+    "topic": "direction-sense",
+    "source_topic": "Verbal Reasoning - Direction Sense Test",
+    "difficulty": null,
+    "question": "A man walks 5 km toward south and then turns to the right. After walking 3 km he turns to the left and walks 5 km. Now in which direction is he from the starting place?",
+    "passage": null,
+    "options": [
+      "West",
+      "South",
+      "North-East",
+      "South-West"
+    ],
+    "answer": 3,
+    "explanation": "Hence required direction is South-West.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/direction-sense-test/"
+  },
+  {
+    "id": "indiabix-direction-sense-87e1976a0e",
+    "category": "reasoning",
+    "topic": "direction-sense",
+    "source_topic": "Verbal Reasoning - Direction Sense Test",
+    "difficulty": null,
+    "question": "Rahul put his timepiece on the table in such a way that at 6 P.M. hour hand points to North. In which direction the minute hand will point at 9.15 P.M. ?",
+    "passage": null,
+    "options": [
+      "South-East",
+      "South",
+      "North",
+      "West"
+    ],
+    "answer": 3,
+    "explanation": "At 9.15 P.M., the minute hand will point towards west.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/direction-sense-test/"
+  },
+  {
+    "id": "indiabix-analogy-b45eb2bc17",
+    "category": "reasoning",
+    "topic": "analogy",
+    "source_topic": "Verbal Reasoning - Analogy",
+    "difficulty": null,
+    "question": "CUP : LIP :: BIRD : ?",
+    "passage": null,
+    "options": [
+      "BUSH",
+      "GRASS",
+      "FOREST",
+      "BEAK"
+    ],
+    "answer": 3,
+    "explanation": "Cup is used to drink something with the help of lips. Similarly birds collects grass with the help of beak to make her nest.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/analogy/"
+  },
+  {
+    "id": "indiabix-analogy-48499d6585",
+    "category": "reasoning",
+    "topic": "analogy",
+    "source_topic": "Verbal Reasoning - Analogy",
+    "difficulty": null,
+    "question": "Flow : River :: Stagnant : ?",
+    "passage": null,
+    "options": [
+      "Rain",
+      "Stream",
+      "Pool",
+      "Canal"
+    ],
+    "answer": 2,
+    "explanation": "As Water of a River flows similarly water of Pool is Stagnant.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/analogy/"
+  },
+  {
+    "id": "indiabix-analogy-8074f711ea",
+    "category": "reasoning",
+    "topic": "analogy",
+    "source_topic": "Verbal Reasoning - Analogy",
+    "difficulty": null,
+    "question": "Paw : Cat :: Hoof : ?",
+    "passage": null,
+    "options": [
+      "Lamb",
+      "Elephant",
+      "Lion",
+      "Horse"
+    ],
+    "answer": 3,
+    "explanation": "As cat has Paw similarly Horse has Hoof.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/analogy/"
+  },
+  {
+    "id": "indiabix-analogy-f94b1ef696",
+    "category": "reasoning",
+    "topic": "analogy",
+    "source_topic": "Verbal Reasoning - Analogy",
+    "difficulty": null,
+    "question": "Ornithologist : Bird :: Archaeologist : ?",
+    "passage": null,
+    "options": [
+      "Islands",
+      "Mediators",
+      "Archaeology",
+      "Aquatic"
+    ],
+    "answer": 2,
+    "explanation": "As Ornithologist is a specialist of Birds similarly Archaeologist is a specialist of Archaeology.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/analogy/"
+  },
+  {
+    "id": "indiabix-analogy-c9d95699cf",
+    "category": "reasoning",
+    "topic": "analogy",
+    "source_topic": "Verbal Reasoning - Analogy",
+    "difficulty": null,
+    "question": "Peacock : India :: Bear : ?",
+    "passage": null,
+    "options": [
+      "Australia",
+      "America",
+      "Russia",
+      "England"
+    ],
+    "answer": 2,
+    "explanation": "As Peacock is the national bird of India, similarly Bear is the national animal of Russia.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/analogy/"
+  },
+  {
+    "id": "indiabix-number-series-d4122da222",
+    "category": "reasoning",
+    "topic": "number-series",
+    "source_topic": "Verbal Reasoning - Series Completion",
+    "difficulty": null,
+    "question": "120, 99, 80, 63, 48, ?",
+    "passage": null,
+    "options": [
+      "35",
+      "38",
+      "39",
+      "40"
+    ],
+    "answer": 0,
+    "explanation": "The pattern is - 21, - 19, - 17, - 15,..... So, missing term = 48 - 13 = 35.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/series-completion/"
+  },
+  {
+    "id": "indiabix-number-series-c01980e9bf",
+    "category": "reasoning",
+    "topic": "number-series",
+    "source_topic": "Verbal Reasoning - Series Completion",
+    "difficulty": null,
+    "question": "589654237, 89654237, 8965423, 965423, ?",
+    "passage": null,
+    "options": [
+      "58965",
+      "65423",
+      "89654",
+      "96542"
+    ],
+    "answer": 3,
+    "explanation": "The digits are removed one by one from the beginning and the end in order alternately so as to obtain the subsequent terms of the series.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/series-completion/"
+  },
+  {
+    "id": "indiabix-number-series-78a6852a07",
+    "category": "reasoning",
+    "topic": "number-series",
+    "source_topic": "Verbal Reasoning - Series Completion",
+    "difficulty": null,
+    "question": "3, 10, 101,?",
+    "passage": null,
+    "options": [
+      "10101",
+      "10201",
+      "10202",
+      "11012"
+    ],
+    "answer": 2,
+    "explanation": "Each term in the series is obtained by adding 1 to the square of the preceding term. So, missing term = (101) 2 + 1 = 10202.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/series-completion/"
+  },
+  {
+    "id": "indiabix-number-series-cd95cad860",
+    "category": "reasoning",
+    "topic": "number-series",
+    "source_topic": "Verbal Reasoning - Series Completion",
+    "difficulty": null,
+    "question": "In the series 2, 6, 18, 54, ...... what will be the 8th term ?",
+    "passage": null,
+    "options": [
+      "4370",
+      "4374",
+      "7443",
+      "7434"
+    ],
+    "answer": 1,
+    "explanation": "Clearly, 2 x 3 = 6, 6 x 3 = 18, 18 x 3 = 54,..... So, the series is a G.P. in which a = 2, r = 3. Therefore 8th term = ar 8-1 = ar 7 = 2 x 3 7 = (2 x 2187) = 4374.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/series-completion/"
+  },
+  {
+    "id": "indiabix-number-series-169660ffa8",
+    "category": "reasoning",
+    "topic": "number-series",
+    "source_topic": "Verbal Reasoning - Series Completion",
+    "difficulty": null,
+    "question": "125,80,45,20,?",
+    "passage": null,
+    "options": [
+      "5",
+      "8",
+      "10",
+      "12"
+    ],
+    "answer": 0,
+    "explanation": "The pattern is - 45, - 35, - 25, ..... So, missing term = 20 - 15 = 5.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/series-completion/"
+  },
+  {
+    "id": "indiabix-statement-assumption-8ebfe042ed",
+    "category": "reasoning",
+    "topic": "statement-assumption",
+    "source_topic": "Logical Reasoning - Statement and Assumption",
+    "difficulty": null,
+    "question": "Statement: \"You are hereby appointed as a programmer with a probation period of one year and your performance will be reviewed at the end of the period for confirmation.\" - A line in an appointment letter. Assumptions: The performance of an individual generally is not known at the time of appointment offer. Generally an individual tries to prove his worth in the probation period.",
+    "passage": null,
+    "options": [
+      "Only assumption I is implicit",
+      "Only assumption II is implicit",
+      "Either I or II is implicit",
+      "Neither I nor II is implicit",
+      "Both I and II are implicit"
+    ],
+    "answer": 4,
+    "explanation": "The performance of the individual has to be tested over a span of time as the statement mentions. So, I is implicit. The statement mentions that the individual's worth shall be reviewed (during probation period) before confirmation. So, II is also implicit.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/statement-and-assumption/"
+  },
+  {
+    "id": "indiabix-statement-assumption-12f94456cf",
+    "category": "reasoning",
+    "topic": "statement-assumption",
+    "source_topic": "Logical Reasoning - Statement and Assumption",
+    "difficulty": null,
+    "question": "Statement: It is desirable to put the child in school at the age of 5 or so. Assumptions: At that age the child reaches appropriate level of development and is ready to learn. The schools do not admit children after six years of age.",
+    "passage": null,
+    "options": [
+      "Only assumption I is implicit",
+      "Only assumption II is implicit",
+      "Either I or II is implicit",
+      "Neither I nor II is implicit",
+      "Both I and II are implicit"
+    ],
+    "answer": 0,
+    "explanation": "Since the statement talks of putting the child in school at the age of 5, it means that the child is mentally prepared for the same at this age. So, I is implicit. But nothing about admission after 6 years of age is mentioned in the statement. So, II is not implicit.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/statement-and-assumption/"
+  },
+  {
+    "id": "indiabix-statement-assumption-e093212d3a",
+    "category": "reasoning",
+    "topic": "statement-assumption",
+    "source_topic": "Logical Reasoning - Statement and Assumption",
+    "difficulty": null,
+    "question": "Statement: \"In order to bring punctuality in our office, we must provide conveyance allowance to our employees.\" - In charge of a company tells Personnel Manager. Assumptions: Conveyance allowance will not help in bringing punctuality. Discipline and reward should always go hand in hand.",
+    "passage": null,
+    "options": [
+      "Only assumption I is implicit",
+      "Only assumption II is implicit",
+      "Either I or II is implicit",
+      "Neither I nor II is implicit",
+      "Both I and II are implicit"
+    ],
+    "answer": 1,
+    "explanation": "Assumption I goes against the statement. So, it is not implicit. The allowance will serve as a reward to the employees and shall provoke them to come on time. So, II is implicit.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/statement-and-assumption/"
+  },
+  {
+    "id": "indiabix-statement-assumption-ee52a1d642",
+    "category": "reasoning",
+    "topic": "statement-assumption",
+    "source_topic": "Logical Reasoning - Statement and Assumption",
+    "difficulty": null,
+    "question": "Statement: Unemployment allowance should be given to all unemployed Indian youth above 18 years of age. Assumptions: There are unemployed youth in India who needs monetary support. The government has sufficient funds to provide allowance to all unemployed youth.",
+    "passage": null,
+    "options": [
+      "Only assumption I is implicit",
+      "Only assumption II is implicit",
+      "Either I or II is implicit",
+      "Neither I nor II is implicit",
+      "Both I and II are implicit"
+    ],
+    "answer": 0,
+    "explanation": "I directly follows from the statement and so is implicit. Also, the statement is a suggestion and does not tell about a government policy or its position of funds. So, II is not implicit.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/statement-and-assumption/"
+  },
+  {
+    "id": "indiabix-statement-assumption-e2e68122ab",
+    "category": "reasoning",
+    "topic": "statement-assumption",
+    "source_topic": "Logical Reasoning - Statement and Assumption",
+    "difficulty": null,
+    "question": "Statement: \"If you trouble me, I will slap you.\" - A mother warns her child. Assumptions: With the warning, the child may stop troubling her. All children are basically naughty.",
+    "passage": null,
+    "options": [
+      "Only assumption I is implicit",
+      "Only assumption II is implicit",
+      "Either I or II is implicit",
+      "Neither I nor II is implicit",
+      "Both I and II are implicit"
+    ],
+    "answer": 0,
+    "explanation": "The mother warns her child with the expectation that he would stop troubling her. So, I is implicit. The general nature of children cannot be derived from the statement. So, II is not implicit.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/statement-and-assumption/"
+  },
+  {
+    "id": "indiabix-classification-odd-one-out-61f8992a05",
+    "category": "reasoning",
+    "topic": "classification-odd-one-out",
+    "source_topic": "Verbal Reasoning - Classification",
+    "difficulty": null,
+    "question": "Choose the word which is different from the rest.",
+    "passage": null,
+    "options": [
+      "Chicken",
+      "Snake",
+      "Swan",
+      "Crocodile",
+      "Frog"
+    ],
+    "answer": 0,
+    "explanation": "All except Chicken can live in water.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/classification/"
+  },
+  {
+    "id": "indiabix-statement-conclusion-c2861a15d2",
+    "category": "reasoning",
+    "topic": "statement-conclusion",
+    "source_topic": "Logical Reasoning - Statement and Conclusion",
+    "difficulty": null,
+    "question": "Statements: In a one day cricket match, the total runs made by a team were 200. Out of these 160 runs were made by spinners. Conclusions: 80% of the team consists of spinners. The opening batsmen were spinners.",
+    "passage": null,
+    "options": [
+      "Only conclusion I follows",
+      "Only conclusion II follows",
+      "Either I or II follows",
+      "Neither I nor II follows",
+      "Both I and II follow"
+    ],
+    "answer": 3,
+    "explanation": "According to the statement, 80% of the total runs were made by spinners. So, I does not follow. Nothing about the opening batsmen is mentioned in the statement. So, II also does not follow.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/statement-and-conclusion/"
+  },
+  {
+    "id": "indiabix-statement-conclusion-5d6928b377",
+    "category": "reasoning",
+    "topic": "statement-conclusion",
+    "source_topic": "Logical Reasoning - Statement and Conclusion",
+    "difficulty": null,
+    "question": "Statements: The old order changed yielding place to new. Conclusions: Change is the law of nature. Discard old ideas because they are old.",
+    "passage": null,
+    "options": [
+      "Only conclusion I follows",
+      "Only conclusion II follows",
+      "Either I or II follows",
+      "Neither I nor II follows",
+      "Both I and II follow"
+    ],
+    "answer": 0,
+    "explanation": "Clearly, I directly follows from the given statement. Also, it is mentioned that old ideas are replaced by new ones, as thinking changes with the progressing time. So, II does not follow.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/statement-and-conclusion/"
+  },
+  {
+    "id": "indiabix-statement-conclusion-983a5bf3d4",
+    "category": "reasoning",
+    "topic": "statement-conclusion",
+    "source_topic": "Logical Reasoning - Statement and Conclusion",
+    "difficulty": null,
+    "question": "Statements: Government has spoiled many top ranking financial institutions by appointing bureaucrats as Directors of these institutions. Conclusions: Government should appoint Directors of the financial institutes taking into consideration the expertise of the person in the area of finance. The Director of the financial institute should have expertise commensurate with the financial work carried out by the institute.",
+    "passage": null,
+    "options": [
+      "Only conclusion I follows",
+      "Only conclusion II follows",
+      "Either I or II follows",
+      "Neither I nor II follows",
+      "Both I and II follow"
+    ],
+    "answer": 4,
+    "explanation": "According to the statement, Government has spoiled financial institutions by appointing bureaucrats as Directors. This means that only those persons should be appointed as Directors who are experts in finance and are acquainted with the financial work of the institute. So, both I and II follow.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/statement-and-conclusion/"
+  },
+  {
+    "id": "indiabix-statement-conclusion-462c07d377",
+    "category": "reasoning",
+    "topic": "statement-conclusion",
+    "source_topic": "Logical Reasoning - Statement and Conclusion",
+    "difficulty": null,
+    "question": "Statements: Population increase coupled with depleting resources is going to be the scenario of many developing countries in days to come. Conclusions: The population of developing countries will not continue to increase in future. It will be very difficult for the governments of developing countries to provide its people decent quality of life.",
+    "passage": null,
+    "options": [
+      "Only conclusion I follows",
+      "Only conclusion II follows",
+      "Either I or II follows",
+      "Neither I nor II follows",
+      "Both I and II follow"
+    ],
+    "answer": 1,
+    "explanation": "The fact given in I is quite contrary to the given statement. So, I does not follow. II mentions the direct implications of the state discussed in the statement. Thus, II follows.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/statement-and-conclusion/"
+  },
+  {
+    "id": "indiabix-statement-conclusion-52d9cf58d1",
+    "category": "reasoning",
+    "topic": "statement-conclusion",
+    "source_topic": "Logical Reasoning - Statement and Conclusion",
+    "difficulty": null,
+    "question": "Statements: Prime age school-going children in urban India have now become avid as well as more regular viewers of television, even in households without a TV. As a result there has been an alarming decline in the extent of readership of newspapers. Conclusions: Method of increasing the readership of newspapers should be devised. A team of experts should be sent to other countries to study the impact of TV. on the readership of newspapers.",
+    "passage": null,
+    "options": [
+      "Only conclusion I follows",
+      "Only conclusion II follows",
+      "Either I or II follows",
+      "Neither I nor II follows",
+      "Both I and II follow"
+    ],
+    "answer": 3,
+    "explanation": "The statement concentrates on the increasing viewership of TV. and does not stress either on increasing the readership of newspapers or making studies regarding the same. So, neither I nor II follows.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/statement-and-conclusion/"
+  },
+  {
+    "id": "indiabix-seating-arrangement-731e7e7fe5",
+    "category": "reasoning",
+    "topic": "seating-arrangement",
+    "source_topic": "Verbal Reasoning - Seating Arrangement",
+    "difficulty": null,
+    "question": "Which of the cars are on both the sides of cadillac car ?",
+    "passage": null,
+    "options": [
+      "Ambassador and Maruti",
+      "Maruti and Fiat",
+      "Fargo and Mercedes",
+      "Ambassador and Fargo"
+    ],
+    "answer": 2,
+    "explanation": "Fargo and Mercedes are on both the sides of cadillac car.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/seating-arrangement/045001"
+  },
+  {
+    "id": "indiabix-seating-arrangement-b93d8aa397",
+    "category": "reasoning",
+    "topic": "seating-arrangement",
+    "source_topic": "Verbal Reasoning - Seating Arrangement",
+    "difficulty": null,
+    "question": "Which of the following statement is correct ?",
+    "passage": null,
+    "options": [
+      "Maruti is next left of Ambassador.",
+      "Bedford is next left of Fiat.",
+      "Bedford is at one end.",
+      "Fiat is next second to the right of Maruti."
+    ],
+    "answer": 0,
+    "explanation": "Therefore, Maruti is next left of Ambassador.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/seating-arrangement/045001"
+  },
+  {
+    "id": "indiabix-seating-arrangement-e4113ec952",
+    "category": "reasoning",
+    "topic": "seating-arrangement",
+    "source_topic": "Verbal Reasoning - Seating Arrangement",
+    "difficulty": null,
+    "question": "Which one of the following statements is correct ?",
+    "passage": null,
+    "options": [
+      "Fargo car is in between Ambassador and Fiat.",
+      "Cadillac is next left to Mercedes car.",
+      "Fargo is next right of Cadillac.",
+      "Maruti is fourth right of Mercedes."
+    ],
+    "answer": 1,
+    "explanation": "Therefore, Cadillac is next left to Mercedes car.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/seating-arrangement/045001"
+  },
+  {
+    "id": "indiabix-seating-arrangement-02209764c4",
+    "category": "reasoning",
+    "topic": "seating-arrangement",
+    "source_topic": "Verbal Reasoning - Seating Arrangement",
+    "difficulty": null,
+    "question": "Which of the following groups of cars is to the right of Ambassador ?",
+    "passage": null,
+    "options": [
+      "Cadillac, Fargo and Maruti",
+      "Mercedes, Cadillac and Fargo",
+      "Maruti, Bedford and Fiat",
+      "Bedford, Cadillac and Fargo"
+    ],
+    "answer": 1,
+    "explanation": "Mercedes, Cadillac and Fargo cars are to the right of Ambassador.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/seating-arrangement/045001"
+  },
+  {
+    "id": "indiabix-seating-arrangement-2a2283199b",
+    "category": "reasoning",
+    "topic": "seating-arrangement",
+    "source_topic": "Verbal Reasoning - Seating Arrangement",
+    "difficulty": null,
+    "question": "Which one of the following is the correct position of Mercedes ?",
+    "passage": null,
+    "options": [
+      "Next to the left of Cadillac",
+      "Next to the left of Bedford",
+      "Between Bedford and Fargo",
+      "Fourth to the right of Maruti."
+    ],
+    "answer": 3,
+    "explanation": "The correct position of Mercedes is fourth to the right of Maruti.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/seating-arrangement/045001"
+  },
+  {
+    "id": "indiabix-puzzles-2bf918a795",
+    "category": "reasoning",
+    "topic": "puzzles",
+    "source_topic": "Logical Reasoning - Logical Problems",
+    "difficulty": null,
+    "question": "Fact 1: All dogs like to run. Fact 2: Some dogs like to swim. Fact 3: Some dogs look like their masters. If the first three statements are facts, which of the following statements must also be a fact? I: All dogs who like to swim look like their masters. II: Dogs who like to swim also like to run. III: Dogs who like to run do not look like their masters.",
+    "passage": null,
+    "options": [
+      "I only",
+      "II only",
+      "II and III only",
+      "None of the statements is a known fact."
+    ],
+    "answer": 1,
+    "explanation": "Statement II is the only true statement. Since all dogs like to run, then the ones who like to swim also like to run. There is no support for statement I or statement III.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/logical-problems/026001"
+  },
+  {
+    "id": "indiabix-puzzles-05f3679aed",
+    "category": "reasoning",
+    "topic": "puzzles",
+    "source_topic": "Logical Reasoning - Logical Problems",
+    "difficulty": null,
+    "question": "Fact 1: Jessica has four children Fact 2: Two of the children have blue eyes and two of the children have brown eyes. Fact 3: Half of the children are girls. If the first three statements are facts, which of the following statements must also be a fact? I: At least one girl has blue eyes. II: Two of the children are boys. III: The boys have brown eyes.",
+    "passage": null,
+    "options": [
+      "I only",
+      "II only",
+      "II and III only",
+      "None of the statements is a known fact."
+    ],
+    "answer": 1,
+    "explanation": "Since one-half of the four children are girls, two must be boys. It is not clear which children have blue or brown eyes.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/logical-problems/026001"
+  },
+  {
+    "id": "indiabix-puzzles-7fb7c81002",
+    "category": "reasoning",
+    "topic": "puzzles",
+    "source_topic": "Logical Reasoning - Logical Problems",
+    "difficulty": null,
+    "question": "Fact 1: All drink mixes are beverages. Fact 2: All beverages are drinkable. Fact 3: Some beverages are red. If the first three statements are facts, which of the following statements must also be a fact? I: Some drink mixes are red. II: All beverages are drink mixes. III: All red drink mixes are drinkable.",
+    "passage": null,
+    "options": [
+      "I and II only",
+      "II only",
+      "I and III only",
+      "III only",
+      "None of the statements is a known fact."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/logical-problems/026001"
+  },
+  {
+    "id": "indiabix-puzzles-a3506944f6",
+    "category": "reasoning",
+    "topic": "puzzles",
+    "source_topic": "Logical Reasoning - Logical Problems",
+    "difficulty": null,
+    "question": "Fact 1: All chickens are birds. Fact 2: Some chickens are hens. Fact 3: Female birds lay eggs. If the first three statements are facts, which of the following statements must also be a fact? I: All birds lay eggs. II: Some Hens are birds. III: Some chickens are not hens.",
+    "passage": null,
+    "options": [
+      "I only",
+      "II only",
+      "II and III only",
+      "None of the statements is a known fact."
+    ],
+    "answer": 2,
+    "explanation": "The first statement cannot be true because only female birds lay eggs. Statement II is true because some hens are chickens and all chickens are birds. Statement III is also true because if only some chickens are hens, then some must not be hens.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/logical-problems/026001"
+  },
+  {
+    "id": "indiabix-puzzles-ce0b07b67c",
+    "category": "reasoning",
+    "topic": "puzzles",
+    "source_topic": "Logical Reasoning - Logical Problems",
+    "difficulty": null,
+    "question": "Fact 1: All hats have brims. Fact 2: There are black hats and blue hats. Fact 3: Baseball caps are hats. If the first three statements are facts, which of the following statements must also be a fact? I: All caps have brims. II: Some baseball caps are blue. III: Baseball caps have no brims.",
+    "passage": null,
+    "options": [
+      "I only",
+      "II only",
+      "II and III only",
+      "None of the statements is a known fact."
+    ],
+    "answer": 3,
+    "explanation": "All baseball caps have brims, since baseball caps are hats (Fact 3) and all hats have brims (Fact 1). This rules out statement III, but it doesn't follow that all caps, a category that may include caps that are not baseball caps, have brims (statement I). Statement II cannot be confirmed, either, since it is possible, given the information, that all baseball caps are black.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/logical-problems/026001"
+  },
+  {
+    "id": "indiabix-venn-diagrams-92bd812eca",
+    "category": "reasoning",
+    "topic": "venn-diagrams",
+    "source_topic": "Verbal Reasoning - Venn Diagrams",
+    "difficulty": null,
+    "question": "By which letter, the married teachers who live in joint family are represented ?",
+    "passage": null,
+    "options": [
+      "R",
+      "Q",
+      "S",
+      "P"
+    ],
+    "answer": 1,
+    "explanation": null,
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/venn-diagrams/025001"
+  },
+  {
+    "id": "indiabix-venn-diagrams-4f5956f086",
+    "category": "reasoning",
+    "topic": "venn-diagrams",
+    "source_topic": "Verbal Reasoning - Venn Diagrams",
+    "difficulty": null,
+    "question": "By which letter, the married people who live in joint family but not are school teachers are represented ?",
+    "passage": null,
+    "options": [
+      "R",
+      "U",
+      "S",
+      "P"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/venn-diagrams/025001"
+  },
+  {
+    "id": "indiabix-venn-diagrams-f1b2580c56",
+    "category": "reasoning",
+    "topic": "venn-diagrams",
+    "source_topic": "Verbal Reasoning - Venn Diagrams",
+    "difficulty": null,
+    "question": "By which letter, the people who live in joint family but are neither married nor teachers are represented ?",
+    "passage": null,
+    "options": [
+      "T",
+      "R",
+      "Q",
+      "S"
+    ],
+    "answer": 0,
+    "explanation": null,
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/venn-diagrams/025001"
+  },
+  {
+    "id": "indiabix-course-of-action-f8fb1e7747",
+    "category": "reasoning",
+    "topic": "course-of-action",
+    "source_topic": "Logical Reasoning - Course of Action",
+    "difficulty": null,
+    "question": "Statement: There has been a significant drop in the water level of all the lakes supplying water to the city. Courses of Action: The water supply authority should impose a partial cut in supply to tackle the situation. The government should appeal to all the residents through mass media for minimal use of water.",
+    "passage": null,
+    "options": [
+      "Only I follows",
+      "Only II follows",
+      "Either I or II follows",
+      "Neither I nor II follows",
+      "Both I and II follow"
+    ],
+    "answer": 4,
+    "explanation": "The situation can be tackled by periodic cuts in supply, and urging people to conserve water. So both the courses follow.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/course-of-action/047010"
+  },
+  {
+    "id": "indiabix-course-of-action-84562cf2c7",
+    "category": "reasoning",
+    "topic": "course-of-action",
+    "source_topic": "Logical Reasoning - Course of Action",
+    "difficulty": null,
+    "question": "Statement: The police department has come under a cloud with recent revelations that at least two senior police officials are suspected to have been involved in the illegal sale of a large quantity of weapons from the state police armoury. Courses of Action: A thorough investigation should be ordered by the State Government to bring out all those who are involved into the illegal sale of arms. State police armoury should be kept under Central Government's control.",
+    "passage": null,
+    "options": [
+      "Only I follows",
+      "Only II follows",
+      "Either I or II follows",
+      "Neither I nor II follows",
+      "Both I and II follow"
+    ],
+    "answer": 0,
+    "explanation": "Clearly, the situation demands finding out the real culprits first. So, only I follow.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/course-of-action/047010"
+  },
+  {
+    "id": "indiabix-course-of-action-2f32964da6",
+    "category": "reasoning",
+    "topic": "course-of-action",
+    "source_topic": "Logical Reasoning - Course of Action",
+    "difficulty": null,
+    "question": "Statement: Financial stringency prevented the State Government from paying salaries to its employees since April this year. Courses of Action: The State Government should immediately curtail the staff strength at least by 30%. The State Government should reduce wasteful expenditure and arrange to pay the salaries of its employees.",
+    "passage": null,
+    "options": [
+      "Only I follows",
+      "Only II follows",
+      "Either I or II follows",
+      "Neither I nor II follows",
+      "Both I and II follow"
+    ],
+    "answer": 1,
+    "explanation": "Clearly, curtailing of the staff strength will only increase the panic and discontent, and the satisfaction of the employees is a must. So, the Government should arrange for payment of wages. Thus, only course II follows.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/course-of-action/047010"
+  },
+  {
+    "id": "indiabix-course-of-action-ba4e310e34",
+    "category": "reasoning",
+    "topic": "course-of-action",
+    "source_topic": "Logical Reasoning - Course of Action",
+    "difficulty": null,
+    "question": "Statement: The cinema halls are incurring heavy losses these days as people prefer to watch movies in home on TV than to visit cinema halls. Courses of Action: The cinema halls should be demolished and residential multi-storey buildings should be constructed there. The cinema halls should be converted into shopping malls.",
+    "passage": null,
+    "options": [
+      "Only I follows",
+      "Only II follows",
+      "Either I or II follows",
+      "Neither I nor II follows",
+      "Both I and II follow"
+    ],
+    "answer": 3,
+    "explanation": "Doing away with cinema halls is no solution. Hence, none of the courses follows. Instead, certain incentives and promotional schemes should be awarded to cinema hall owners so that they could manage to draw in crowds.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/course-of-action/047010"
+  },
+  {
+    "id": "indiabix-course-of-action-1b3b9f35bf",
+    "category": "reasoning",
+    "topic": "course-of-action",
+    "source_topic": "Logical Reasoning - Course of Action",
+    "difficulty": null,
+    "question": "Statement: Duty free technology parks where foreign firms can manufacture electronic hardware components are proposed to be established at various places in the country. Courses of Action: Government should immediately implement the proposal to augment the foreign currency reserve by exporting the products. Government should not implement the proposal as it will hinder indigenous production of hardware components.",
+    "passage": null,
+    "options": [
+      "Only I follows",
+      "Only II follows",
+      "Either I or II follows",
+      "Neither I nor II follows",
+      "Both I and II follow"
+    ],
+    "answer": 0,
+    "explanation": "The step discussed in the statement would surely give a boost to hardware industry and help our country to stand apart in this field. Thus, only I follows.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/course-of-action/047010"
+  },
+  {
+    "id": "indiabix-venn-diagrams-f6a09fd569",
+    "category": "reasoning",
+    "topic": "venn-diagrams",
+    "source_topic": "Verbal Reasoning - Venn Diagrams",
+    "difficulty": null,
+    "question": "How many persons who take tea and wine but not coffee ?",
+    "passage": null,
+    "options": [
+      "20",
+      "17",
+      "25",
+      "15"
+    ],
+    "answer": 1,
+    "explanation": "17 persons take tea and wine but not coffee.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/venn-diagrams/020001"
+  },
+  {
+    "id": "indiabix-venn-diagrams-c6de1cca51",
+    "category": "reasoning",
+    "topic": "venn-diagrams",
+    "source_topic": "Verbal Reasoning - Venn Diagrams",
+    "difficulty": null,
+    "question": "How many persons are there who take both tea and coffee but not wine ?",
+    "passage": null,
+    "options": [
+      "22",
+      "17",
+      "7",
+      "20"
+    ],
+    "answer": 2,
+    "explanation": "Number of persons was taken both tea and coffee but not wine is 7.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/venn-diagrams/020001"
+  },
+  {
+    "id": "indiabix-venn-diagrams-4cc506edaa",
+    "category": "reasoning",
+    "topic": "venn-diagrams",
+    "source_topic": "Verbal Reasoning - Venn Diagrams",
+    "difficulty": null,
+    "question": "How many persons take wine ?",
+    "passage": null,
+    "options": [
+      "100",
+      "82",
+      "92",
+      "122"
+    ],
+    "answer": 3,
+    "explanation": "122 persons take wine.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/venn-diagrams/020001"
+  },
+  {
+    "id": "indiabix-venn-diagrams-3d7263fe7e",
+    "category": "reasoning",
+    "topic": "venn-diagrams",
+    "source_topic": "Verbal Reasoning - Venn Diagrams",
+    "difficulty": null,
+    "question": "How many persons are there who takes only coffee ?",
+    "passage": null,
+    "options": [
+      "90",
+      "45",
+      "25",
+      "20"
+    ],
+    "answer": 1,
+    "explanation": "25 + 20 = 45",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/venn-diagrams/020001"
+  },
+  {
+    "id": "indiabix-venn-diagrams-a46f97b2e9",
+    "category": "reasoning",
+    "topic": "venn-diagrams",
+    "source_topic": "Verbal Reasoning - Venn Diagrams",
+    "difficulty": null,
+    "question": "How many persons takes all the three ?",
+    "passage": null,
+    "options": [
+      "20",
+      "17",
+      "25",
+      "15"
+    ],
+    "answer": 3,
+    "explanation": "15 persons take all the three.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/venn-diagrams/020001"
+  },
+  {
+    "id": "indiabix-statement-assumption-ee313d8b81",
+    "category": "reasoning",
+    "topic": "statement-assumption",
+    "source_topic": "Logical Reasoning - Statement and Assumption",
+    "difficulty": null,
+    "question": "Statement: In order to reduce the gap between income and expenditure, the company has decided to increase the price of its product from next month. Assumptions: The rate will remain more or less same after the increase. The expenditure will more or less remain the same in near future. The rival companies will also increase the price of the similar product.",
+    "passage": null,
+    "options": [
+      "Only I and II are implicit",
+      "Only II and III are implicit",
+      "Only III is implicit",
+      "All are implicit",
+      "None of these"
+    ],
+    "answer": 4,
+    "explanation": "Clearly, the company intends to reduce the gap between income and expenditure by increasing the price of its product i.e. by keeping the expenditure unaltered and increasing the income only. So, II is implicit while I is not. However, the rival companies may or may not follow the same pursuit. So, III is not implicit.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/statement-and-assumption/056001"
+  },
+  {
+    "id": "indiabix-statement-assumption-9325f0ad33",
+    "category": "reasoning",
+    "topic": "statement-assumption",
+    "source_topic": "Logical Reasoning - Statement and Assumption",
+    "difficulty": null,
+    "question": "Statement: 'Several labour and industrial courts in this State have no proper premises. Vacancies of judges and stenos are kept pending.' - A statement of a retired judge of State X. Assumptions: Adequate number of staff and judges helps in the smooth functioning of the industrial and labour courts. The State is not bothered about the condition of the labour and industrial courts. Physical facilities of an office help in increasing efficiency of its employees.",
+    "passage": null,
+    "options": [
+      "Only I and III are implicit",
+      "Only II is implicit",
+      "Only II and III are implicit",
+      "All I, II and III are implicit",
+      "None of these"
+    ],
+    "answer": 3,
+    "explanation": "The statement expresses grave concern over the lack of proper premises and inadequate staff in labour and industrial courts. This implies that adequate staff is a must to serve the purpose of these courts and a proper office only can ensure their smooth functioning. So, both I and III are implicit. The lack of facilities to the courts also indicates the state's negligent attitude to the condition of the courts. So, II is also implicit.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/statement-and-assumption/056001"
+  },
+  {
+    "id": "indiabix-statement-assumption-78d77624ce",
+    "category": "reasoning",
+    "topic": "statement-assumption",
+    "source_topic": "Logical Reasoning - Statement and Assumption",
+    "difficulty": null,
+    "question": "Statement: \"A rare opportunity to be a professional while you are at home.\" - An advertisement for computer literate housewives by a computer company. Assumptions: Some housewives simultaneously desire to become professional. Computer industry is growing at a fast pace. It is possible to be a professional as well as a housewife.",
+    "passage": null,
+    "options": [
+      "Only I and II are implicit",
+      "Only II and III are implicit",
+      "Only I and III are implicit",
+      "Only II is implicit",
+      "None of these"
+    ],
+    "answer": 2,
+    "explanation": "Clearly, a company would highlight only that feature in its advertisement which people crave for and which it can make possible. So, both I and III are implicit. Nothing can be deduced about the growth of computer industry. So, II is not implicit.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/statement-and-assumption/056001"
+  },
+  {
+    "id": "indiabix-statement-assumption-9b615a9496",
+    "category": "reasoning",
+    "topic": "statement-assumption",
+    "source_topic": "Logical Reasoning - Statement and Assumption",
+    "difficulty": null,
+    "question": "Statement: Pramod decided to get the railway reservation in May, for the journey he wants to make in July, to Madras. Assumptions: The railways issues reservations two months in advance. There are more than one trains to Madras. There will be vacancy in the desired class.",
+    "passage": null,
+    "options": [
+      "Only I is implicit",
+      "Only II and III are implicit",
+      "Only I and III are implicit",
+      "All are implicit",
+      "None of these"
+    ],
+    "answer": 0,
+    "explanation": "Clearly, since Pramod decides to get the reservation in May for the journey in July, so I is implicit. The number of trains to Madras or the position of vacancies in different classes cannot be deduced from the given statement. So, neither II nor III is implicit.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/statement-and-assumption/056001"
+  },
+  {
+    "id": "indiabix-statement-assumption-ecc0a85bf2",
+    "category": "reasoning",
+    "topic": "statement-assumption",
+    "source_topic": "Logical Reasoning - Statement and Assumption",
+    "difficulty": null,
+    "question": "Statement: \"To make the company commercially viable, there is an urgent need to prune the staff strength and borrow money from the financial institutions.\" - Opinion of a consultant. Assumptions: The financial institutions lend money for such proposals. The product of the company has a potential market. The employees of the company are inefficient.",
+    "passage": null,
+    "options": [
+      "None is implicit",
+      "All are implicit",
+      "Only I and II are implicit",
+      "Only II and III are implicit",
+      "Only I and III are implicit"
+    ],
+    "answer": 2,
+    "explanation": "Since the consultant talks of borrowing money from financial institutions, so I is implicit. That the owners wish to make the company 'commercially viable' makes II implicit. Also, it is mentioned that staff strength is to be reduced to make the company 'commercially viable'. So, III is not implicit.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/statement-and-assumption/056001"
+  },
+  {
+    "id": "indiabix-direction-sense-f138a2b52c",
+    "category": "reasoning",
+    "topic": "direction-sense",
+    "source_topic": "Verbal Reasoning - Direction Sense Test",
+    "difficulty": null,
+    "question": "Sachin walks 20 km towards North. He turns left and walks 40 km. He again turns left and walks 20 km. Finally he moves 20 km after turning to the left. How far is he from his starting position?",
+    "passage": null,
+    "options": [
+      "20 km.",
+      "30 km.",
+      "50 km.",
+      "60 km."
+    ],
+    "answer": 0,
+    "explanation": "Required distance = 40 - 20 = 20 km.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/direction-sense-test/001008"
+  },
+  {
+    "id": "indiabix-direction-sense-ebd3ba3e7d",
+    "category": "reasoning",
+    "topic": "direction-sense",
+    "source_topic": "Verbal Reasoning - Direction Sense Test",
+    "difficulty": null,
+    "question": "From his house, Lokesh went 15 km to the North. Then he turned west and covered 10 km. Then he turned south and covered 5 km. Finally turning to the east, he covered 10 km. In which direction is he from his house?",
+    "passage": null,
+    "options": [
+      "East",
+      "West",
+      "North",
+      "South"
+    ],
+    "answer": 2,
+    "explanation": "Therefore, it is clear that he is in the North from his house.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/direction-sense-test/001008"
+  },
+  {
+    "id": "indiabix-seating-arrangement-b11d820348",
+    "category": "reasoning",
+    "topic": "seating-arrangement",
+    "source_topic": "Verbal Reasoning - Seating Arrangement",
+    "difficulty": null,
+    "question": "Which of the following statement is not true ?",
+    "passage": null,
+    "options": [
+      "S is just next to the right to R",
+      "T is just next to the right of V",
+      "R is second to the left of T",
+      "P is second to the right of R"
+    ],
+    "answer": 2,
+    "explanation": null,
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/seating-arrangement/051001"
+  },
+  {
+    "id": "indiabix-seating-arrangement-4cafeb62fd",
+    "category": "reasoning",
+    "topic": "seating-arrangement",
+    "source_topic": "Verbal Reasoning - Seating Arrangement",
+    "difficulty": null,
+    "question": "If P and R interchange their positions then which of the following pair will sit together ?",
+    "passage": null,
+    "options": [
+      "RT",
+      "PV",
+      "VT",
+      "QV"
+    ],
+    "answer": 2,
+    "explanation": "After changing the position of P and R V and T are together.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/seating-arrangement/051001"
+  },
+  {
+    "id": "indiabix-seating-arrangement-040e11d9a4",
+    "category": "reasoning",
+    "topic": "seating-arrangement",
+    "source_topic": "Verbal Reasoning - Seating Arrangement",
+    "difficulty": null,
+    "question": "What is the position of T ?",
+    "passage": null,
+    "options": [
+      "Just next to the right of Q",
+      "Second to the left of P",
+      "Between Q and R",
+      "To the immediate right of V"
+    ],
+    "answer": 3,
+    "explanation": null,
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/seating-arrangement/051001"
+  },
+  {
+    "id": "indiabix-seating-arrangement-470e0217c4",
+    "category": "reasoning",
+    "topic": "seating-arrangement",
+    "source_topic": "Verbal Reasoning - Seating Arrangement",
+    "difficulty": null,
+    "question": "Which one is sitting just right to the V?",
+    "passage": null,
+    "options": [
+      "P",
+      "T",
+      "R",
+      "S/Q"
+    ],
+    "answer": 1,
+    "explanation": "T is sitting just right to the V.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/seating-arrangement/051001"
+  },
+  {
+    "id": "indiabix-venn-diagrams-56dc1fe972",
+    "category": "reasoning",
+    "topic": "venn-diagrams",
+    "source_topic": "Verbal Reasoning - Venn Diagrams",
+    "difficulty": null,
+    "question": "How many educated people are employed ?",
+    "passage": null,
+    "options": [
+      "9",
+      "18",
+      "20",
+      "15"
+    ],
+    "answer": 0,
+    "explanation": "Number of educated people who are employed = 3 + 6 = 9.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/venn-diagrams/024001"
+  },
+  {
+    "id": "indiabix-venn-diagrams-d50f4023d2",
+    "category": "reasoning",
+    "topic": "venn-diagrams",
+    "source_topic": "Verbal Reasoning - Venn Diagrams",
+    "difficulty": null,
+    "question": "How many backward people are educated ?",
+    "passage": null,
+    "options": [
+      "9",
+      "28",
+      "14",
+      "6"
+    ],
+    "answer": 2,
+    "explanation": "Number of backward people are who are educated = 11 + 3 = 14.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/venn-diagrams/024001"
+  },
+  {
+    "id": "indiabix-venn-diagrams-3fa0c1aeaa",
+    "category": "reasoning",
+    "topic": "venn-diagrams",
+    "source_topic": "Verbal Reasoning - Venn Diagrams",
+    "difficulty": null,
+    "question": "How many backward uneducated people are employed ?",
+    "passage": null,
+    "options": [
+      "14",
+      "5",
+      "7",
+      "11"
+    ],
+    "answer": 1,
+    "explanation": "Number of backward uneducated people who are employed is 5.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/venn-diagrams/024001"
+  },
+  {
+    "id": "indiabix-venn-diagrams-ebc16b3c0f",
+    "category": "reasoning",
+    "topic": "venn-diagrams",
+    "source_topic": "Verbal Reasoning - Venn Diagrams",
+    "difficulty": null,
+    "question": "How many backward people are not educated ?",
+    "passage": null,
+    "options": [
+      "3",
+      "14",
+      "22",
+      "25"
+    ],
+    "answer": 2,
+    "explanation": "Number of backward people who are not educated = 17 + 5 = 22.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/venn-diagrams/024001"
+  },
+  {
+    "id": "indiabix-number-series-57d6617948",
+    "category": "reasoning",
+    "topic": "number-series",
+    "source_topic": "Verbal Reasoning - Series Completion",
+    "difficulty": null,
+    "question": "10, 100, 200, 310, ?",
+    "passage": null,
+    "options": [
+      "400",
+      "410",
+      "420",
+      "430"
+    ],
+    "answer": 3,
+    "explanation": "The pattern is + 90 + 100, + 110,..... So, missing term = 310 + 120 = 430.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/series-completion/073010"
+  },
+  {
+    "id": "indiabix-number-series-e05784b544",
+    "category": "reasoning",
+    "topic": "number-series",
+    "source_topic": "Verbal Reasoning - Series Completion",
+    "difficulty": null,
+    "question": "11, 10, ?, 100, 1001, 1000, 10001",
+    "passage": null,
+    "options": [
+      "101",
+      "110",
+      "111",
+      "None of these"
+    ],
+    "answer": 0,
+    "explanation": "The pattern is - 1, x 10 + 1, - 1, x 10 + 1, - 1, x 10 + 1, ..... So, missing term = 10 x 10 + 1 = 101.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/series-completion/073010"
+  },
+  {
+    "id": "indiabix-number-series-983c219eb7",
+    "category": "reasoning",
+    "topic": "number-series",
+    "source_topic": "Verbal Reasoning - Series Completion",
+    "difficulty": null,
+    "question": "2, 7, 27, 107, 427, ?",
+    "passage": null,
+    "options": [
+      "1262",
+      "1707",
+      "4027",
+      "4207"
+    ],
+    "answer": 1,
+    "explanation": "The pattern is + 5, + 20, + 80, + 320, ...... i.e. + (5 x 1 2 ), + (5 x 2 2 ), + (5 x 4 2 ), + (5 x 8 2 ),..... So, missing term = 427 + (5 x 16 2 ) = 427 + 1280 = 1707.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/series-completion/073010"
+  },
+  {
+    "id": "indiabix-classification-odd-one-out-27d8e93a47",
+    "category": "reasoning",
+    "topic": "classification-odd-one-out",
+    "source_topic": "Verbal Reasoning - Classification",
+    "difficulty": null,
+    "question": "Choose the odd one out.",
+    "passage": null,
+    "options": [
+      "HSRI",
+      "MVUN",
+      "OLKP",
+      "PJQX",
+      "WDCX"
+    ],
+    "answer": 3,
+    "explanation": "In all other groups, first and fourth letters are consecutive, while second and third letters are in reverse alphabetical order.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/classification/066001"
+  },
+  {
+    "id": "indiabix-direction-sense-9d837da2a0",
+    "category": "reasoning",
+    "topic": "direction-sense",
+    "source_topic": "Verbal Reasoning - Direction Sense Test",
+    "difficulty": null,
+    "question": "Which one is in the North-East of the person who is to the left of Kumar?",
+    "passage": null,
+    "options": [
+      "Dev",
+      "Nilesh",
+      "Ankur",
+      "Pintu"
+    ],
+    "answer": 3,
+    "explanation": "Ankur is in the left of Kumar. Hence Pintu is in North-East of Ankur.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/direction-sense-test/002001"
+  },
+  {
+    "id": "indiabix-direction-sense-fca8243547",
+    "category": "reasoning",
+    "topic": "direction-sense",
+    "source_topic": "Verbal Reasoning - Direction Sense Test",
+    "difficulty": null,
+    "question": "If a boy starting from Nilesh, met to Ankur and then to Kumar and after this he to Dev and then to Pintu and whole the time he walked in a straight line, then how much total distance did he cover?",
+    "passage": null,
+    "options": [
+      "215 m",
+      "155 m",
+      "245 m",
+      "185 m"
+    ],
+    "answer": 0,
+    "explanation": "Required distance = 25 m + 40 m + 60 m + 90 m Required distance = 215 m",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/direction-sense-test/002001"
+  },
+  {
+    "id": "indiabix-statement-argument-f09587b777",
+    "category": "reasoning",
+    "topic": "statement-argument",
+    "source_topic": "Logical Reasoning - Statement and Argument",
+    "difficulty": null,
+    "question": "Statement: Should people with educational qualification higher than the optimum requirements be debarred from seeking jobs? Arguments: No. It will further aggravate the problem of educated unemployment. Yes. It creates complexes among employees and affects the work adversely. No. This goes against the basic rights of the individuals. Yes. This will increase productivity.",
+    "passage": null,
+    "options": [
+      "Only I and III are strong",
+      "All are strong",
+      "Only II and IV are strong",
+      "Only III is strong",
+      "None of these"
+    ],
+    "answer": 3,
+    "explanation": "The issue discussed in the statement is nowhere related to increase in unemployment, as the number of vacancies filled in will remain the same. Also, in a working place, it is the performance of the individual that matters and that makes him more or less wanted, and not his educational qualifications. So, neither I nor II holds strong. Besides, the needs of a job are laid down in the desired qualifications for the job. So, recruitment of more qualified people cannot augment productivity. Thus, IV also does not hold strong. However, it is the right of an individual to get the post for which he fulfils the eligibility criteria, whatever be his extra merits. Hence, argument III holds strong.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/statement-and-argument/054001"
+  },
+  {
+    "id": "indiabix-statement-argument-5052d8330d",
+    "category": "reasoning",
+    "topic": "statement-argument",
+    "source_topic": "Logical Reasoning - Statement and Argument",
+    "difficulty": null,
+    "question": "Statement: Should India go in for computerization in all possible sectors? Arguments: Yes. It will bring efficiency and accuracy in the work. No. It will be an injustice to the monumental human resources which are at present underutilized. No. Computerization demands a lot of money. We should not waste money on it. Yes. When advanced countries are introducing computers in every field, how can India afford to lag behind?",
+    "passage": null,
+    "options": [
+      "Only I is strong",
+      "Only I and II are strong",
+      "Only I and III are strong",
+      "Only II and III are strong",
+      "All are strong"
+    ],
+    "answer": 0,
+    "explanation": "Clearly, the need of today is to put to better use the underutilized human resources. Computers with better and speedy efficiency can accomplish this. So, argument I holds, while II does not. Computerization is a much beneficial project and investment in it is not at all a waste. So, III is not strong. Further, development in a new field is not a matter of merely following up other countries. So, IV also does not hold strong.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/statement-and-argument/054001"
+  },
+  {
+    "id": "indiabix-statement-argument-4dfcc3b3fb",
+    "category": "reasoning",
+    "topic": "statement-argument",
+    "source_topic": "Logical Reasoning - Statement and Argument",
+    "difficulty": null,
+    "question": "Statement: Should all the school teachers be debarred from giving private tuitions? Arguments: No. The needy students will be deprived of the expertise of these teachers. Yes. This is an injustice to the unemployed educated people who can earn their living by giving tuitions. Yes. Only then the quality of teaching in schools will improve. Yes. Now salary of these teachers is reasonable.",
+    "passage": null,
+    "options": [
+      "Only I and III are strong",
+      "Only I, II and III are strong",
+      "Only III and IV are strong",
+      "Only II, III and IV are strong",
+      "None of these"
+    ],
+    "answer": 4,
+    "explanation": "Only III is strong. The lure of earning private tuitions reduces the efforts and devotion of the teachers towards the students in schools. So, if tuitions are banned, students can benefit from their teachers' knowledge in the school itself. So, argument III holds strong while I does not. However, a person cannot be barred from earning more just because he already has a good salary. So, argument IV is vague. Further, the unemployed people thriving on tuitions can survive with the school teachers holding tuitions too, if they are capable enough to guide the students well. So, argument II also does not hold strong.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/statement-and-argument/054001"
+  },
+  {
+    "id": "indiabix-statement-argument-d97d2ed628",
+    "category": "reasoning",
+    "topic": "statement-argument",
+    "source_topic": "Logical Reasoning - Statement and Argument",
+    "difficulty": null,
+    "question": "Statement: Should education be made compulsory for all children up to the age of 14? Arguments: Yes. This will help to eradicate the system of forced employment of these children. Yes. This is an effective way to make the entire population educated. No. We do not have adequate infrastructure to educate the entire population. Yes. This would increase the standard of living.",
+    "passage": null,
+    "options": [
+      "All are strong",
+      "Only I, II and III are strong",
+      "Only I, II and IV are strong",
+      "Only II is strong",
+      "Only II and III are strong"
+    ],
+    "answer": 3,
+    "explanation": "Clearly, today's children are to make up future citizens of the country and so it is absolutely essential to make them learned, more responsible, more innovative and self-dependent by imparting them education. So, argument II holds strong while I and IV do not. Besides, the goal of literacy cannot be denied for want of infrastructure. So, argument III also does not hold.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/statement-and-argument/054001"
+  },
+  {
+    "id": "indiabix-statement-argument-e580af63c5",
+    "category": "reasoning",
+    "topic": "statement-argument",
+    "source_topic": "Logical Reasoning - Statement and Argument",
+    "difficulty": null,
+    "question": "Statement: Should trade unions be banned completely? Arguments: Yes. Workers can concentrate on production. No. This is the only way through which employees can put their demands before the management. Yes. Employees get their illegal demands fulfilled through these unions. No. Trade unions are not banned in other economically advanced countries.",
+    "passage": null,
+    "options": [
+      "Only I is strong",
+      "Only II is strong",
+      "Only I and II are strong",
+      "Only I, II and III are strong",
+      "None of these"
+    ],
+    "answer": 1,
+    "explanation": "Clearly, trade unions provide a common platform for the workers to voice their demands and protests and thus ensure that they are not subdued or exploited. So, argument II holds strong, while I and III do not. Besides, the idea of imitation of other countries in the implementation of a certain policy holds no relevance. So, argument IV also does not hold strong.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/statement-and-argument/054001"
+  },
+  {
+    "id": "indiabix-data-sufficiency-ac2c1c9ddc",
+    "category": "reasoning",
+    "topic": "data-sufficiency",
+    "source_topic": "Verbal Reasoning - Data Sufficiency",
+    "difficulty": null,
+    "question": "Question: On which day in April is Gautam's birthday? Statements: Gautam was born exactly 28 years after his mother was born. His mother will be 55 years 4 months and 5 days on August 18 this year.",
+    "passage": null,
+    "options": [
+      "I alone is sufficient while II alone is not sufficient",
+      "II alone is sufficient while I alone is not sufficient",
+      "Either I or II is sufficient",
+      "Neither I nor II is sufficient",
+      "Both I and II are sufficient"
+    ],
+    "answer": 4,
+    "explanation": "Clearly, the birthday of Gautam's mother can be found out from II and then Gautam's birthday can be determined using the fact given in I.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/data-sufficiency/067010"
+  },
+  {
+    "id": "indiabix-data-sufficiency-de3606596c",
+    "category": "reasoning",
+    "topic": "data-sufficiency",
+    "source_topic": "Verbal Reasoning - Data Sufficiency",
+    "difficulty": null,
+    "question": "Question: What is the code for 'is' in the code language ? Statements: In the code language, 'shi tu ke' means 'pen is blue'. In the same code language, 'ke si re' means 'this is wonderful'.",
+    "passage": null,
+    "options": [
+      "I alone is sufficient while II alone is not sufficient",
+      "II alone is sufficient while I alone is not sufficient",
+      "Either I or II is sufficient",
+      "Neither I nor II is sufficient",
+      "Both I and II are sufficient"
+    ],
+    "answer": 4,
+    "explanation": "In I and II, the common word is 'is' and the common code word is 'ke'. So, 'ke' is the code for 'is'.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/data-sufficiency/067010"
+  },
+  {
+    "id": "indiabix-data-sufficiency-dd092d9cc2",
+    "category": "reasoning",
+    "topic": "data-sufficiency",
+    "source_topic": "Verbal Reasoning - Data Sufficiency",
+    "difficulty": null,
+    "question": "Question: Among A, B, C, D and E, who is in the middle while standing in a row ? Statements: C, who is third to the left of D, is to the immediate right of A and second to the left of E. C is second to the left of E, who is not at any of the ends and who is third to the right of A. D is at one of the ends.",
+    "passage": null,
+    "options": [
+      "I alone is sufficient while II alone is not sufficient",
+      "II alone is sufficient while I alone is not sufficient",
+      "Either I or II is sufficient",
+      "Neither I nor II is sufficient",
+      "Both I and II are sufficient"
+    ],
+    "answer": 2,
+    "explanation": "From each one of I and II, we get the order : A, C, B, E, D. Clearly, B is in the middle.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/data-sufficiency/067010"
+  },
+  {
+    "id": "indiabix-data-sufficiency-b6746e0de0",
+    "category": "reasoning",
+    "topic": "data-sufficiency",
+    "source_topic": "Verbal Reasoning - Data Sufficiency",
+    "difficulty": null,
+    "question": "Question: Among A, B, C, D, E and F, who is the heaviest ? Statements: A and D are heavier than B, E and F but none of them is the heaviest. A is heavier than D but lighter than C.",
+    "passage": null,
+    "options": [
+      "I alone is sufficient while II alone is not sufficient",
+      "II alone is sufficient while I alone is not sufficient",
+      "Either I or II is sufficient",
+      "Neither I nor II is sufficient",
+      "Both I and II are sufficient"
+    ],
+    "answer": 0,
+    "explanation": "From I, we conclude that since none of A and D is the heaviest and each one of B, E and F is lighter than both A and D, so C is the heaviest.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/data-sufficiency/067010"
+  },
+  {
+    "id": "indiabix-number-series-703993cec6",
+    "category": "reasoning",
+    "topic": "number-series",
+    "source_topic": "Verbal Reasoning - Series Completion",
+    "difficulty": null,
+    "question": "_ stt _ tt _ tts _",
+    "passage": null,
+    "options": [
+      "tsts",
+      "ttst",
+      "sstt",
+      "tsst"
+    ],
+    "answer": 3,
+    "explanation": "The series is t st/t s t/t s t/ts t . Thus, the pattern 'tst' is repeated.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/series-completion/077001"
+  },
+  {
+    "id": "indiabix-number-series-162c4f1655",
+    "category": "reasoning",
+    "topic": "number-series",
+    "source_topic": "Verbal Reasoning - Series Completion",
+    "difficulty": null,
+    "question": "gfe _ ig _ eii _ fei _ gf_ ii",
+    "passage": null,
+    "options": [
+      "eifgi",
+      "figie",
+      "ifgie",
+      "ifige"
+    ],
+    "answer": 2,
+    "explanation": "The series is gfe i i/gfeii/gfei i /gf e ii. Thus, the pattern 'gfeii' is repeated.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/series-completion/077001"
+  },
+  {
+    "id": "indiabix-number-series-d6da2a8962",
+    "category": "reasoning",
+    "topic": "number-series",
+    "source_topic": "Verbal Reasoning - Series Completion",
+    "difficulty": null,
+    "question": "_ a _ b _ abaa _ bab _ abb",
+    "passage": null,
+    "options": [
+      "aaabb",
+      "ababb",
+      "babab",
+      "babba"
+    ],
+    "answer": 3,
+    "explanation": "The series is b a a /b b a/baa/ b ba/b a a/bb. Thus, the pattern baa/bba is repeated.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/series-completion/077001"
+  },
+  {
+    "id": "indiabix-number-series-a89c7aecac",
+    "category": "reasoning",
+    "topic": "number-series",
+    "source_topic": "Verbal Reasoning - Series Completion",
+    "difficulty": null,
+    "question": "abca _ bcaab _ ca _ bbc _ a",
+    "passage": null,
+    "options": [
+      "ccaa",
+      "bbaa",
+      "abac",
+      "abba"
+    ],
+    "answer": 2,
+    "explanation": "The series is abc/a a bc/aab b c/a a bbc c /a.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/series-completion/077001"
+  },
+  {
+    "id": "indiabix-number-series-9e1c6efaf1",
+    "category": "reasoning",
+    "topic": "number-series",
+    "source_topic": "Verbal Reasoning - Series Completion",
+    "difficulty": null,
+    "question": "_ tu _ rt _ s _ _ usrtu _",
+    "passage": null,
+    "options": [
+      "rtusru",
+      "rsutrr",
+      "rsurtr",
+      "rsurts"
+    ],
+    "answer": 3,
+    "explanation": "The series r tu s /rt u s/ rt us/rtu s . Thus, the pattern 'rtus' is repeated.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/series-completion/077001"
+  },
+  {
+    "id": "indiabix-classification-odd-one-out-82d0b0112b",
+    "category": "reasoning",
+    "topic": "classification-odd-one-out",
+    "source_topic": "Verbal Reasoning - Classification",
+    "difficulty": null,
+    "question": "Choose the pair in which the words are differently related from the rest.",
+    "passage": null,
+    "options": [
+      "Shirt : Dress",
+      "Boy : Girl",
+      "Mango: Fruit",
+      "Table: Furniture"
+    ],
+    "answer": 1,
+    "explanation": "In all other pairs, second denotes the class to which the first belongs.",
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/verbal-reasoning/classification/064001"
+  },
+  {
+    "id": "indiabix-statement-conclusion-e70b00c365",
+    "category": "reasoning",
+    "topic": "statement-conclusion",
+    "source_topic": "Logical Reasoning - Statement and Conclusion",
+    "difficulty": null,
+    "question": "Soldiers serve their country.",
+    "passage": null,
+    "options": [
+      "Men generally serve their country.",
+      "Those who serve their country are soldiers.",
+      "Some men who are soldiers serve their country.",
+      "Women do not serve their country because they are not soldiers."
+    ],
+    "answer": 2,
+    "explanation": null,
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/statement-and-conclusion/040001"
+  },
+  {
+    "id": "indiabix-statement-conclusion-7080338332",
+    "category": "reasoning",
+    "topic": "statement-conclusion",
+    "source_topic": "Logical Reasoning - Statement and Conclusion",
+    "difficulty": null,
+    "question": "A factory worker has five children. No one else in the factory has five children.",
+    "passage": null,
+    "options": [
+      "All workers in the factory have five children each.",
+      "Everybody in the factory has children.",
+      "Some of the factory workers have more than five children.",
+      "Only one worker in the factory has exactly five children."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/statement-and-conclusion/040001"
+  },
+  {
+    "id": "indiabix-statement-conclusion-e45f15047e",
+    "category": "reasoning",
+    "topic": "statement-conclusion",
+    "source_topic": "Logical Reasoning - Statement and Conclusion",
+    "difficulty": null,
+    "question": "Television convinces viewers that the likelihood of their becoming the victim of a violent crime is extremely high; at the same time by its very nature, TV persuades viewers to passively accept whatever happens to them.",
+    "passage": null,
+    "options": [
+      "TV viewing promotes criminal behaviour.",
+      "TV viewers are most likely to be victimized than others.",
+      "People should not watch TV.",
+      "TV promotes a feeling of helpless vulnerability in viewers."
+    ],
+    "answer": 3,
+    "explanation": null,
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/statement-and-conclusion/040001"
+  },
+  {
+    "id": "indiabix-statement-conclusion-44b2c3551a",
+    "category": "reasoning",
+    "topic": "statement-conclusion",
+    "source_topic": "Logical Reasoning - Statement and Conclusion",
+    "difficulty": null,
+    "question": "A forest has as many sandal trees as it has Ashoka trees. Three-fourth of the trees are old ones and half of the trees are at the flowering stage.",
+    "passage": null,
+    "options": [
+      "All Ashoka trees are at the flowering stage.",
+      "All sandal trees are at the flowering stage.",
+      "At least one-half of the Ashoka trees are old.",
+      "One-half of the sandal trees are at the flowering stage.",
+      "None of these"
+    ],
+    "answer": 4,
+    "explanation": null,
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/statement-and-conclusion/040001"
+  },
+  {
+    "id": "indiabix-statement-conclusion-5f8726c1d2",
+    "category": "reasoning",
+    "topic": "statement-conclusion",
+    "source_topic": "Logical Reasoning - Statement and Conclusion",
+    "difficulty": null,
+    "question": "The government is soon going to introduce a bill which would permit the instituting of private universities under very strict directions.",
+    "passage": null,
+    "options": [
+      "We have some private universities in our country even now.",
+      "The demand for more universities is being stepped up.",
+      "Such directions can also be issued without informing the Parliament.",
+      "The government gives directions to establish anything in private sector.",
+      "Unless and until the directions are given, the private universities can charge exorbitant fees."
+    ],
+    "answer": 1,
+    "explanation": null,
+    "images": [],
+    "source": "indiabix",
+    "url": "https://www.indiabix.com/logical-reasoning/statement-and-conclusion/040001"
+  },
+  {
+    "id": "practiceaptitudetests-direction-001",
+    "category": "reasoning",
+    "topic": "direction-sense",
+    "source_topic": "Direction Diagram",
+    "difficulty": "easy",
+    "question": "Which letter represents north-east on the compass diagram?",
+    "passage": null,
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": 3,
+    "explanation": "East is clockwise from north. The north-east ray is labelled D in the diagram.",
+    "images": [
+      "data/images/aptitude-test-q2-visual.png"
+    ],
+    "source": "user-provided-pdf",
+    "url": "data/sources/aptitude-test.pdf#page=4"
+  },
+  {
+    "id": "practiceaptitudetests-pattern-001",
+    "category": "reasoning",
+    "topic": "non-verbal",
+    "source_topic": "Abstract Shape Sequence",
+    "difficulty": "medium",
+    "question": "Which of the given shapes would complete the sequence in the 3×3 matrix?",
+    "passage": null,
+    "options": [
+      "A: filled diamond",
+      "B: filled pentagon",
+      "C: three vertical lines",
+      "D: circle with a short line"
+    ],
+    "answer": 0,
+    "explanation": "The number of line segments in each column is constant. The middle column totals 10 lines and the right column totals 7; the left column must total 4. The missing cell is therefore the 4-line shape, option A.",
+    "images": [
+      "data/images/aptitude-test-q4-visual.png"
+    ],
+    "source": "user-provided-pdf",
+    "url": "data/sources/aptitude-test.pdf#page=6"
+  },
+  {
+    "id": "campus-book-pattern-01",
+    "category": "reasoning",
+    "topic": "non-verbal",
+    "source_topic": "Character Puzzle",
+    "difficulty": "medium",
+    "question": "In the three diamond number figures, which value replaces the question mark?",
+    "passage": null,
+    "options": [
+      "23",
+      "18",
+      "22",
+      "21",
+      "None of these"
+    ],
+    "answer": 0,
+    "explanation": "For figure (a), 9+5+3=17, then 17+3=20. For (b), 2+6+8=16, then 16+3=19. For (c), 7+9+4=20, then 20+3=23.",
+    "images": [
+      "data/images/campus-pattern-q1.png"
+    ],
+    "source": "CampusRecruitmentBook",
+    "url": "data/sources/CampusRecruitmentBook.pdf#page=58"
+  },
+  {
+    "id": "campus-book-pattern-02",
+    "category": "reasoning",
+    "topic": "non-verbal",
+    "source_topic": "Character Puzzle",
+    "difficulty": "medium",
+    "question": "In the three spoke diagrams, which centre number replaces the question mark?",
+    "passage": null,
+    "options": [
+      "236",
+      "336",
+      "286",
+      "386",
+      "436"
+    ],
+    "answer": 2,
+    "explanation": "Multiply the three top numbers and add the product of the three bottom numbers. For the third figure, 4×5×8 + 6×7×3 = 286.",
+    "images": [
+      "data/images/campus-pattern-q2.png"
+    ],
+    "source": "CampusRecruitmentBook",
+    "url": "data/sources/CampusRecruitmentBook.pdf#page=58"
+  },
+  {
+    "id": "campus-book-pattern-03",
+    "category": "reasoning",
+    "topic": "non-verbal",
+    "source_topic": "Character Puzzle",
+    "difficulty": "medium",
+    "question": "In the three branching number figures, which bottom number replaces the question mark?",
+    "passage": null,
+    "options": [
+      "81",
+      "84",
+      "516",
+      "514",
+      "86"
+    ],
+    "answer": 2,
+    "explanation": "The bottom value is the sum of the cubes of the two top values. For the third figure, 8³+2²=512+4=516.",
+    "images": [
+      "data/images/campus-pattern-q3.png"
+    ],
+    "source": "CampusRecruitmentBook",
+    "url": "data/sources/CampusRecruitmentBook.pdf#page=58"
+  },
+  {
+    "id": "campus-book-pattern-04",
+    "category": "reasoning",
+    "topic": "non-verbal",
+    "source_topic": "Character Puzzle",
+    "difficulty": "medium",
+    "question": "In the three inverted-triangle number figures, which centre number replaces the question mark?",
+    "passage": null,
+    "options": [
+      "79",
+      "89",
+      "99",
+      "69",
+      "109"
+    ],
+    "answer": 0,
+    "explanation": "The centre is the top value multiplied by the left value, then added to the right value. For the last figure, 12×6+7=79.",
+    "images": [
+      "data/images/campus-pattern-q4.png"
+    ],
+    "source": "CampusRecruitmentBook",
+    "url": "data/sources/CampusRecruitmentBook.pdf#page=58"
+  },
+  {
+    "id": "campus-book-pattern-05",
+    "category": "reasoning",
+    "topic": "non-verbal",
+    "source_topic": "Character Puzzle",
+    "difficulty": "medium",
+    "question": "In the three circle arrangements, which centre number replaces the question mark?",
+    "passage": null,
+    "options": [
+      "229",
+      "134",
+      "329",
+      "439",
+      "339"
+    ],
+    "answer": 1,
+    "explanation": "Add the squares of the four outer values. For the third arrangement, 8²+6²+3²+5²=134.",
+    "images": [
+      "data/images/campus-pattern-q5.png"
+    ],
+    "source": "CampusRecruitmentBook",
+    "url": "data/sources/CampusRecruitmentBook.pdf#page=58"
+  },
+  {
+    "id": "campus-book-pattern-06",
+    "category": "reasoning",
+    "topic": "non-verbal",
+    "source_topic": "Character Puzzle",
+    "difficulty": "medium",
+    "question": "In the number matrix, which value replaces the question mark?",
+    "passage": "| 12 | 19 | 16 |\n|---:|---:|---:|\n| 4 | 3 | ? |\n| 6 | 3 | 8 |\n| 8 | 19 | 4 |",
+    "options": [
+      "8",
+      "16",
+      "4",
+      "2",
+      "None of these"
+    ],
+    "answer": 3,
+    "explanation": "Each column follows (top × second-row) ÷ third-row = bottom. In column three, (16×? )÷8=4, so ?=2.",
+    "images": [],
+    "source": "CampusRecruitmentBook",
+    "url": "data/sources/CampusRecruitmentBook.pdf#page=58"
+  },
+  {
+    "id": "campus-book-pattern-07",
+    "category": "reasoning",
+    "topic": "non-verbal",
+    "source_topic": "Character Puzzle",
+    "difficulty": "medium",
+    "question": "In the three paired-square figures, which outside number replaces the question mark?",
+    "passage": null,
+    "options": [
+      "108",
+      "46",
+      "64",
+      "104",
+      "Cannot be determined"
+    ],
+    "answer": 0,
+    "explanation": "The outside value is the difference of the squares of the two inside values. For the third figure, 12²−6²=108.",
+    "images": [
+      "data/images/campus-pattern-q7.png"
+    ],
+    "source": "CampusRecruitmentBook",
+    "url": "data/sources/CampusRecruitmentBook.pdf#page=58"
+  },
+  {
+    "id": "campus-book-pattern-08",
+    "category": "reasoning",
+    "topic": "non-verbal",
+    "source_topic": "Character Puzzle",
+    "difficulty": "medium",
+    "question": "In the letter-and-number matrix, which pair replaces the question mark?",
+    "passage": "| A₅ | F₁₀ | K₁₅ |\n|---|---|---|\n| B₁₆ | G₂₁ | L₂₆ |\n| C₂₇ | H₃₂ | ? |",
+    "options": [
+      "M37",
+      "N36",
+      "O37",
+      "M36",
+      "M38"
+    ],
+    "answer": 0,
+    "explanation": "Down each column, the letter advances by one and the number increases by 11. The missing pair is M37.",
+    "images": [],
+    "source": "CampusRecruitmentBook",
+    "url": "data/sources/CampusRecruitmentBook.pdf#page=58"
+  }
+]

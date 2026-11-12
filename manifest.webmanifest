@@ -1,0 +1,11 @@
+{
+  "name": "Prepdesk · Placement Practice",
+  "short_name": "Prepdesk",
+  "description": "Private placement aptitude practice with progress and study planning.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f6f1",
+  "theme_color": "#173c43",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}

@@ -1,0 +1,26 @@
+# Local server and deployment state
+/.netlify/
+/tmp/
+/node_modules/
+/scraper/cache/
+/scraper/_vendor/
+**/__pycache__/
+*.py[cod]
+
+# Keys and local configuration
+.env
+.env.*
+!.env.example
+
+# Supplied source books and scrape intermediates are not needed by the site
+/data/sources/
+/data/*rejected.json
+/data/rejected.json
+/data/ebook_key_corrections.json
+/data/scrape_log.json
+*.pdf
+*.log
+
+# Operating system files
+Thumbs.db
+.DS_Store
