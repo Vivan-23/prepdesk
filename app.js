@@ -233,8 +233,9 @@
     const weak=Object.entries(averages).filter(([,score])=>score!==null).sort((a,b)=>a[1]-b[1]).slice(0,3).map(([metric,score])=>({metric:INTERVIEW_METRIC_LABEL[metric],average:score}));
     return {reviews:valid.length,latest:valid.slice(0,5).map(r=>({date:r.createdAt,category:interviewCategoryLabel(r.category),question:r.question,overall:r.review.overallScore,ratings:r.review.ratings,nextFocus:r.review.nextFocus})),averageBySkill:averages,skillsToWorkOn:weak};
   }
-  function chooseInterviewPrompt(category=state.interviewCategory){
+  function chooseInterviewPrompt(category=state.interviewCategory,excludeId=null){
     let pool=state.interviewPrompts.filter(p=>category==="all"||p.category===category);if(!pool.length)return null;
+    if(excludeId&&pool.length>1)pool=pool.filter(p=>p.id!==excludeId);
     const repeatable=state.interviewRecords.filter(r=>r.review&&(r.review.overallScore<3.2||INTERVIEW_METRICS.some(k=>Number(r.review.ratings?.[k])<=2))).sort((a,b)=>(a.review.overallScore||0)-(b.review.overallScore||0));
     for(const record of repeatable){const candidate=pool.find(p=>p.id===record.promptId);if(candidate)return candidate;}
     const recent=new Set(state.interviewRecords.slice(0,5).map(r=>r.promptId)),fresh=pool.filter(p=>!recent.has(p.id));return shuffle(fresh.length?fresh:pool)[0];
@@ -361,7 +362,7 @@
     const answerForm=$("#answer-form");if(answerForm)answerForm.addEventListener("submit",e=>{e.preventDefault();const picked=answerForm.querySelector('input[name="answer-choice"]:checked');if(picked)submitCurrentAnswer(Number(picked.value));});
     const coachForm=$("#coach-form");if(coachForm)coachForm.addEventListener("submit",e=>{e.preventDefault();sendCoachMessage($("#coach-input").value);});
     document.querySelectorAll("[data-prompt]").forEach(b=>b.addEventListener("click",()=>{const input=$("#coach-input");input.value=b.dataset.prompt;input.focus();}));
-    const interviewCategory=$("#interview-category");if(interviewCategory)interviewCategory.addEventListener("change",()=>{const next=interviewCategory.value;if(!discardInterviewDraftIfNeeded()){render();return;}state.interviewCategory=next;state.interviewPrompt=chooseInterviewPrompt(next);resetInterviewDraft();render();});
+    const interviewCategory=$("#interview-category");if(interviewCategory)interviewCategory.addEventListener("change",()=>{const next=interviewCategory.value;if(!discardInterviewDraftIfNeeded()){render();return;}const previousId=state.interviewPrompt?.id;state.interviewCategory=next;state.interviewPrompt=chooseInterviewPrompt(next,previousId);resetInterviewDraft();render();});
     const interviewTranscript=$("#interview-transcript");if(interviewTranscript)interviewTranscript.addEventListener("input",()=>{state.interviewDraftTranscript=interviewTranscript.value;});
     const interviewFeedback=$("#interview-feedback");if(interviewFeedback)interviewFeedback.addEventListener("input",()=>{state.interviewDraftFeedback=interviewFeedback.value;});
     const readingTitle=$("#reading-title");if(readingTitle)readingTitle.addEventListener("input",()=>{state.readingDraftTitle=readingTitle.value;});
@@ -402,7 +403,7 @@
       else if(action==="remove-groq"){if(confirm("Remove the saved Groq API key from this browser?")){await deleteOne("settings","groqApiKey");delete state.settings.groqApiKey;render();toast("Groq key removed.");}}
       else if(action==="save-model"){const model=$("#groq-model").value.trim();if(!model){toast("Enter a Groq model name.");return;}await saveSetting("groqModel",model);toast("Model saved.");render();}
       else if(action==="test-groq")await testGroq();
-      else if(action==="new-interview-prompt"){if(!discardInterviewDraftIfNeeded())return;resetInterviewDraft();state.interviewPrompt=chooseInterviewPrompt();render();}
+      else if(action==="new-interview-prompt"){if(!discardInterviewDraftIfNeeded())return;const previousId=state.interviewPrompt?.id;resetInterviewDraft();state.interviewPrompt=chooseInterviewPrompt(state.interviewCategory,previousId);render();}
       else if(action==="copy-interview-prompt")await copyInterviewPrompt();
       else if(action==="save-interview-review")await saveInterviewReview();
       else if(action==="copy-reading-prompt")await copyReadingPrompt();

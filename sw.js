@@ -1,5 +1,5 @@
-const CACHE = "prepdesk-shell-v10";
-const APP_FILES = ["./", "./index.html", "./engineer.html", "./engineer.css?v=1", "./engineer.js?v=1", "./styles.css?v=20261112-reading1", "./app.js?v=20261126-engineer1", "./manifest.webmanifest", "./icon.svg", "./data/quant.json?v=20261105-audited4", "./data/reasoning.json?v=20261105-audited4", "./data/verbal.json?v=20261105-audited4", "./data/interview_prompts.json?v=20261105-interview1"];
+const CACHE = "prepdesk-shell-v11";
+const APP_FILES = ["./", "./index.html", "./engineer.html", "./engineer.css?v=1", "./engineer.js?v=1", "./styles.css?v=20261112-reading1", "./app.js?v=20261126-interview2", "./manifest.webmanifest", "./icon.svg", "./data/quant.json?v=20261105-audited4", "./data/reasoning.json?v=20261105-audited4", "./data/verbal.json?v=20261105-audited4", "./data/interview_prompts.json?v=20261105-interview1"];
 self.addEventListener("install", event => {
   event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(APP_FILES)).then(() => self.skipWaiting()));
 });
