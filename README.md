@@ -17,3 +17,7 @@ The deployed site is a public static website unless access controls are configur
 **Read & recall** links to the Aevy curated reading board. Prepdesk stores the title and optional direct link you enter, plus your spoken recall and review; it does not scrape or copy article text.
 
 See [HOW_TO_USE.md](HOW_TO_USE.md) for the full practice and backup workflow.
+
+## Engineer OS
+
+Open `engineer.html` from the Prepdesk navigation to use the 180-day engineering challenge. Its schedule defaults to December 3, 2026 through May 31, 2027 in Asia/Kolkata. Engineer OS uses a separate versioned browser-local store (`engineer-os-v1`); it does not synchronize across devices or share progress with Prepdesk. Use **Settings → Download JSON backup** regularly and keep the backup somewhere outside this browser. Restoring a backup replaces Engineer OS records after schema validation and a confirmation prompt.
